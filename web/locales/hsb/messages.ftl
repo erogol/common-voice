@@ -590,6 +590,7 @@ subscribe = Abonować
 get-started-speech = Prěnje kroki z rěčenskim spóznaćom
 other-datasets = Druhe hłosowe datowe sadźby
 feedback-q = Maće komentary?
+community-playbook = Zapiski zhromadźenstwa
 data-other-librispeech-description = LibriSpeech je korpus nimale 1.000 hodźin w jendźelskej rěči (natočene z 16 Khz), kotrež ze słuchoknihow projekta LibriVox pochadźeja.
 data-other-ted-name = Korpus TED-LIUM
 data-other-ted-description = Korpus TED-LIUM je z awdiopřednoškow a jich transkripcijow wutworił, kotrež su na websydle TED k dispoziciji.
