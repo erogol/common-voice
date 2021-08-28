@@ -593,6 +593,7 @@ other-datasets = Inne zbiory danych
 feedback-q = Masz sugestie?
 resource-nemo-info = <githubLink>NVIDIA NeMo</githubLink>™ to <docsLink>zestaw narzędzi open source</docsLink> dla naukowców rozwijających najnowocześniejsze konwersacyjne modele sztucznej inteligencji.
 resource-deepspeech-info = Mechanizm rozpoznawania mowy open source o nazwie Deep Speech od Mozilli może być używany do tworzenia aplikacji rozpoznających mowę. Przeczytaj <githubLink>podsumowanie w serwisie GitHub</githubLink> lub dołącz do <discourseLink>DeepSpeech w serwisie Discourse</discourseLink>, aby dowiedzieć się, jak zacząć.
+resource-coqui-info = <coquiLink>Coqui</coquiLink> jest poświęcony otwartym technologiom mowy. Ich projekty obejmują mechanizmy rozpoznawania i syntezy mowy oparte na głębokim uczeniu.
 data-other-librispeech-description = LibriSpeech to zbiór około 1000 godzin angielskiej mowy w jakości 16 KHz, z tekstów audiobooków z projektu LibriVox.
 data-other-ted-name = Zbiór TED-LIUM
 data-other-ted-description = Zbiór TED-LIUM został utworzony z nagrań przemów i ich transkrypcji dostępnych na stronie konferencji TED.
