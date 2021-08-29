@@ -732,3 +732,5 @@ contribution-misreadings-example-4-title = I dinusauri giganti di u Triassicu. I
 contribution-misreadings-example-4-explanation = [L'arrighjistramentu hè più longu chè u testu privistu]
 contribution-misreadings-example-5-title = Ci n'andemu fora per piglià un caffè.
 contribution-varying-pronunciations-title = Prununcie variabile
+contribution-background-noise-example-2-explanation = [Una parte di u testu ùn si pò sente]
+contribution-background-voices-title = Voce di fondu
