@@ -720,3 +720,7 @@ demo-listen-subtitle = Seti pronti à cuntribuisce ?
 
 ## Validation criteria
 
+contribution-criteria-nav = Criterii
+contribution-criteria-link = Capisce i criterii di cuntribuzione
+contribution-criteria-page-title = Criterii di cuntribuzione
+contribution-for-example = Per asempiu
