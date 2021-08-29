@@ -731,3 +731,4 @@ contribution-misreadings-example-3-explanation = [Arrighjistramentu piantatu nan
 contribution-misreadings-example-4-title = I dinusauri giganti di u Triassicu. Iè.
 contribution-misreadings-example-4-explanation = [L'arrighjistramentu hè più longu chè u testu privistu]
 contribution-misreadings-example-5-title = Ci n'andemu fora per piglià un caffè.
+contribution-varying-pronunciations-title = Prununcie variabile
