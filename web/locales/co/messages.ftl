@@ -420,6 +420,7 @@ release-version = Versione
 dataset-date = Data
 license = Licenza : <licenseLink> { $license } </licenseLink>
 license-mixed = Mischiatu
+data-download-singleword-title = Scaricà u segmentu specificu incù parolle uniche
 review-terms = Usendu Common Voice, site d'accunsentu incù i nostri <termsLink>cundizioni d'utilizazioni</termsLink> è <privacyLink>a nostra pulitica di cunfidenzialità</privacyLink>
 terms-agree = Sò d'accunsentu
 terms-disagree = Ùn sò micca d'accunsentu
