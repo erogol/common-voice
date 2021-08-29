@@ -636,6 +636,7 @@ easy-difficulty = Faciule
 average-difficulty = Mediana
 difficult-difficulty = Difficiule
 pro-difficulty = Prufessiunale
+lose-goal-progress-warning = Cambiendu u vostru scopu, si pò perde i vostri prugressi attuali
 want-to-continue = Vulete cuntinuà ?
 finish-editing = Compie i cambii in primu locu ?
 lose-changes-warning = Partendu avà, i vostri cambiamenti seranu persi
