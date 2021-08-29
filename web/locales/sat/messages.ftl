@@ -85,7 +85,7 @@ pa-IN = ᱯᱚᱧᱡᱟᱵᱤ
 pl = ᱯᱳᱞᱤᱥ
 ru = ᱨᱩᱥᱤ
 sah = ᱥᱟᱠᱷᱟ
-sat = ᱥᱟᱱᱛᱟᱲᱤ (ᱚᱞ ᱪᱤᱠᱤ)
+sat = ᱥᱟᱱᱛᱟᱲᱤ
 si = ᱥᱤᱸᱦᱟᱞᱟ
 sk = ᱥᱞᱚᱣᱟᱠ
 so = ᱥᱳᱢᱟᱞᱤ
@@ -120,7 +120,7 @@ help = ᱜᱚᱲᱚ
 contact = ᱥᱚᱢᱯᱚᱨᱠ
 privacy = ᱱᱤᱥᱚᱱ
 terms = ᱥᱚᱨᱛᱚᱠᱚ
-cookies = ᱠᱩᱠᱤᱡᱠᱚ
+cookies = ᱠᱩᱠᱤᱡᱽ ᱠᱚ
 faq = FAQ
 link-copied = ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱦᱩᱭᱮᱱᱟ
 
@@ -208,7 +208,7 @@ faq-search-for-answers =
 
 ## ABOUT US
 
-about-title = Common Voice ᱫᱚ ᱪᱮᱫᱟᱜ?
+about-title = ᱪᱮᱫᱟᱜ Common Voice?
 about-speak = ᱨᱚᱲ ᱢᱮ
 about-listen = ᱟᱧᱡᱚᱢ ᱢᱮ
 about-yes-votes = ≥ ᱒ ᱦᱮᱸ ᱵᱷᱚᱴ
