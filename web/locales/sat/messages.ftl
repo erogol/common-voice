@@ -116,6 +116,7 @@ show-wall-of-text = ᱟᱨᱦᱚᱸ ᱯᱟᱲᱦᱟᱣ ᱢᱮ
 vote-yes = ᱦᱮᱸ
 vote-no = ᱵᱟᱝ
 speak-subtitle = ᱟᱢᱟᱜ ᱟᱲᱟᱝ ᱮᱱᱮᱢ ᱢᱮ
+voices-online = ᱱᱤᱛᱚᱜᱼᱟ ᱚᱱᱞᱟᱭᱤᱱ ᱟᱲᱟᱝ ᱠᱚ
 read-terms-q = ᱟᱞᱮᱭᱟᱜ ᱥᱚᱨᱚᱛ ᱯᱟᱲᱦᱟᱣ ᱟᱠᱟᱫᱟᱢ ᱥᱮ?
 ready-to-record = ᱟᱢᱟᱜ ᱟᱲᱟᱝ ᱮᱱᱮᱢ ᱞᱟᱹᱜᱤᱫᱛᱮ ᱛᱮᱭᱟᱨ ᱢᱮᱱᱟᱢᱟ ᱥᱮ?
 all-locales = ᱡᱷᱚᱛᱚ
@@ -265,6 +266,7 @@ other-language = ᱮᱴᱟᱜᱟ ᱯᱟᱹᱨᱥᱤ
 ## Languages Overview
 
 languages-show-more = ᱰᱷᱮᱨ ᱧᱮᱞ
+languages-show-less = ᱠᱚᱢ ᱧᱮᱞ ᱢᱮ
 language-total-progress = ᱢᱳᱴ
 language-search-input =
     .placeholder = ᱥᱮᱸᱫᱽᱨᱟ
@@ -328,3 +330,4 @@ demo-listen-subtitle = ᱮᱱᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱭᱟᱨ?
 ## Validation criteria
 
 see-more = <chevron></chevron>ᱰᱷᱮᱨ ᱧᱮᱞ
+see-less = <chevron></chevron>ᱠᱚᱢ ᱧᱮᱞ ᱢᱮ
