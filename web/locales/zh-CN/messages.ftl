@@ -900,6 +900,7 @@ contribution-misreadings-description = 聆听语音片段时，请仔细核对�
 contribution-misreadings-description-extended-list-1 = 录音内容缺少句首的<strong>“A”</strong>或<strong>“The”</strong>。
 contribution-misreadings-description-extended-list-2 = 词尾缺少 <strong>'s'</strong>。
 contribution-background-noise-title = 背景噪音
+contribution-background-noise-example-2-explanation = [听不清部分文字]
 contribution-background-voices-title = 背景噪音
 contribution-volume-title = 音量
 contribution-just-unsure-title = 仍有不解之处？
