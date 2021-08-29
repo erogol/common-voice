@@ -734,3 +734,6 @@ contribution-misreadings-example-5-title = Ci n'andemu fora per piglià un caff�
 contribution-varying-pronunciations-title = Prununcie variabile
 contribution-background-noise-example-2-explanation = [Una parte di u testu ùn si pò sente]
 contribution-background-voices-title = Voce di fondu
+contribution-volume-title = Volume
+contribution-volume-description = Ci seranu variazioni di volume trà i sfarenti lettori. Ricusà solu sè u volume hè cusì altu chì l'arrighjistramentu pianta, o (di manera più cummuna) s'ellu hè cusì bassu ch'ùn si sente micca u testu.
+contribution-reader-effects-description = A maiurità di l'arrighjistramenti sò di parsoni chi parlani nurmalamente. Pudeti cunvalidà di tempi à tempi un arrighjistramenti mughjatu, sussuratu o in una voce teatrale. Per piacè ricuseti arrighjistramenti chì sò cantati o fati cù una voce artificiale.
