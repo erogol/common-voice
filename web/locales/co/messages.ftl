@@ -724,3 +724,4 @@ contribution-criteria-nav = Criterii
 contribution-criteria-link = Capisce i criterii di cuntribuzione
 contribution-criteria-page-title = Criterii di cuntribuzione
 contribution-for-example = Per asempiu
+contribution-misreadings-description-extended-list-4 = Sminticà a fine di a parolla cumpiendu l'arrighjistramentu troppu in furia.
