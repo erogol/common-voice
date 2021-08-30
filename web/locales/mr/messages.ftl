@@ -586,6 +586,7 @@ get-started-speech = स्पीच रेकग्निशनला सुर
 other-datasets = इतर व्हॉइस डेटासेट
 feedback-q = अभिप्राय आहे?
 resource-nemo-info = अत्यंत प्रतिभाशाली AI संभाषण करणारे मॉडेल बनवणाऱ्या संशोधकांसाठी <githubLink>NVIDIA NeMo™</githubLink> हे एक <docsLink>मुक्त-स्रोत साधन</docsLink> आहे.
+resource-deepspeech-info = Mozilla चे मुक्तस्त्रोत इंजिन Deep Speech भाष्य ओळखणारी प्रणाली बनवण्यासाठी वापरले जाऊ शकते. सुरुवात कशी करायची यासाठी आमची <githubLink>Github समीक्षा</githubLink> वाचा किंवा <discourseLink>DeepSpeech Discourse</discourseLink> वर या.
 data-other-librispeech-description = लिब्रीस्पेच हे लिब्रीवॉक्स प्रोजेक्टमधील ऑडिओबुकवरुन वाचलेल्या इंग्रजी भाषेच्या सुमारे 16 किलोहर्ट्झच्या सुमारे 1000 तासांची सामग्री आहे.
 data-other-ted-name = टेड-लिम कॉर्पस
 data-other-ted-description = टेड-लिम कॉर्पस भाषणांच्या ऑडिओतून तयार केले गेले आहेत आणि त्यांचे ट्रान्सक्रिप्शन टेड वेबसाइटवर उपलब्ध आहेत.
