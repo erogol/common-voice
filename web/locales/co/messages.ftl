@@ -453,6 +453,7 @@ download-language = Scaricà { $language }
 validated-hours = Ore Cunvalidate
 recorded-hours = Ore Arrighjistrate
 whats-inside = Cosa c'hè ind'a basa di dati di Common Voice ?
+want-dataset-update = Vuleti riceve messe à ghjorni appuntu à e nove versione di a banca di dati Common Voice ? Abbunatevi à u nostru nutiziale.
 subscribe = Abbunassi
 get-started-speech = Cummincià incù a ricunniscenza vucale
 other-datasets = Altre banche di voci
