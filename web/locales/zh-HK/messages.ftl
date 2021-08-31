@@ -282,6 +282,7 @@ shortcut-record-toggle = r
 shortcut-record-toggle-label = 錄音/停止
 shortcut-rerecord-toggle = [1-5]
 shortcut-rerecord-toggle-label = 重新錄製片段
+shortcut-discard-ongoing-recording = ESC
 shortcut-submit = 返回
 shortcut-submit-label = 提交錄音
 request-language-text = 喺 Common Voice 入邊搵唔到您的語言？
@@ -573,8 +574,6 @@ subscribe = 訂閱
 get-started-speech = 語音識辨新手入門
 other-datasets = 其他語音數據集
 feedback-q = 有意見要回饋嗎？
-deepspeech-info = Common Voice 資料集可與 Mozilla 的開放原始碼語音識別引擎 Deep Speech 互補，讓您用來打造語音識別應用程式。您可閱讀我們的 <githubLink>Github 概觀</githubLink>或加入<discourseLink> DeepSpeech Discourse</discourseLink> 了解如何入門。
-common-voice-info-new = 有關於 Common Voice 的問題嗎？有針對某種語言的新點子或改善的意見嗎？歡迎加入 <discourseLink>Discourse 討論區</discourseLink>留言給我們知道。
 data-other-librispeech-description = LibriSpeech 語料庫來自 LibriVox 計劃，共有大概一千個鐘嘅 16 千赫英語有聲書錄音。
 data-other-ted-name = TED-LIUM 語料庫
 data-other-ted-description = TED-LIUM 語料庫是從 TED 網站上的講座對話，及其被抄寫下來的演講稿一起製作而成的語料庫。
@@ -880,3 +879,9 @@ demo-listen-subtitle = 準備好幫手貢獻未？
 
 demo-dashboard-card-header = 個人儀表板可以令你了解個人同社群嘅最新消息。
 demo-dashboard-card-body = 對於每段貢獻咗出嚟嘅錄音同埋經過驗證嘅錄音，您嘅帳戶儀表板都會更新，以反映您喺每種語言嘅最新進展。冇錯，您可以作出多項貢獻。<br/> <br/>你可以透過儀表板跟蹤統計數據，了解您同社群入面其他嘅交往狀況，並設定每日或者每個禮拜嘅貢獻目標。
+
+## Validation criteria
+
+contribution-for-example = 例如
+contribution-background-noise-title = 背景噪音
+contribution-background-voices-title = 背景人聲
