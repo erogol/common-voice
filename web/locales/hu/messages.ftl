@@ -957,6 +957,7 @@ contribution-background-voices-description-extended = Ha a felvétel szakadozik 
 contribution-background-voices-example-1-title = A triász óriás dinoszauruszai. <strong>[egyhangúan fekolvasva]</strong>
 contribution-background-voices-example-1-explanation = Jössz? <strong>[más szól neki]</strong>
 contribution-volume-title = Hangerő
+contribution-volume-description = Természetes eltérések lesznek az olvasók hangereje között. Csak azokat utasítsa el, ahol a hangerő olyan magas, hogy szétesik a felvétel, vagy (ami gyakrabban előfordul) olyan halk, hogy az írott szöveg nélkül nem érti, hogy pontosan mit is olvas fel.
 contribution-reader-effects-title = Felolvasói hatások
 contribution-just-unsure-title = Csak bizonytalan?
 see-more = <chevron> </chevron> További információk
