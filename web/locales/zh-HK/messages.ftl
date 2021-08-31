@@ -190,6 +190,7 @@ logout = 登出
 ## Home Page
 
 home-title = Common Voice 計劃係由 Mozilla 發起嘅，用嚟幫機械學識好似真人咁發聲。
+default-tagline = Mozilla Common Voice 係一個用來訓練機器學識真人說話方式嘅計劃。
 home-cta = 喺呢度貢獻你嘅聲音！
 wall-of-text-start = 語音係自然、有人性嘅。所以我哋非常希望為機器建造可用嘅語音技術，但建造語音系統需要非常大量嘅語音數據。
 wall-of-text-more-mobile = 大部分現成嘅數據由大公司擁有，並未開放畀大眾使用。我哋覺得咁樣會阻礙創新，所以創立咗等每個人都可以嚟自由建造語音識別嘅 Common Voice 計劃。
@@ -283,6 +284,7 @@ shortcut-record-toggle-label = 錄音/停止
 shortcut-rerecord-toggle = [1-5]
 shortcut-rerecord-toggle-label = 重新錄製片段
 shortcut-discard-ongoing-recording = ESC
+shortcut-discard-ongoing-recording-label = 放棄目前嘅錄音
 shortcut-submit = 返回
 shortcut-submit-label = 提交錄音
 request-language-text = 喺 Common Voice 入邊搵唔到您的語言？
@@ -882,6 +884,12 @@ demo-dashboard-card-body = 對於每段貢獻咗出嚟嘅錄音同埋經過驗�
 
 ## Validation criteria
 
+contribution-criteria-page-title = 貢獻準則
 contribution-for-example = 例如
+contribution-misreadings-title = 誤讀
 contribution-background-noise-title = 背景噪音
 contribution-background-voices-title = 背景人聲
+contribution-volume-title = 音量
+contribution-just-unsure-title = 唔肯定？
+see-more = <chevron></chevron>睇多啲
+see-less = <chevron></chevron>睇少啲
