@@ -675,8 +675,15 @@ confirm-goal = Cunfirmà u scopu
 goal-interval-weekly = Settimanale
 # $type is one of share-goal-type-*
 share-n-daily-contribution-goal = Sparte u vostru scopu ghjurnalieru di { $count } campioni { $type }
+# $type is one of share-goal-type-*
+share-n-weekly-contribution-goal = Sparte u vostru scopu settimanale di { $count } campioni { $type }
+share-goal-type-speak = Parlati
+share-goal-type-listen = Stati à sente
+share-goal-type-both = Parlati è stati à sente
 weekly-goal-created = U vostru scopu sittimanale hè statu creatu
 daily-goal-created = U vostru scopu ghjurnalieru hè statu creatu
+track-progress = Seguitati i prugressi quì nant'à a vostra paghjina di statistiche.
+return-to-edit-goal = Vultà quì pà mudificà u vostru scopu quand'ella vi piace
 share-goal = Sparte u mo scopu
 
 ## Profile Delete
@@ -728,13 +735,18 @@ demo-listen-subtitle = Seti pronti à cuntribuisce ?
 
 ## Demo Dashboard
 
+demo-dashboard-card-body = Per ogni campione datu è ogni campione vucale cunvalidatu, u vostru tavulonu di cumande hè messu à ghjornu per riflettà i vostri prugressi attuali in ogni lingua à a quella vo aveti cuntribuitu. Iè, si pò cuntribuisce in più chè una !<br/><br/> U vostru tavulone di cumande s’impiega per seguità e vostre statistiche, per vede ciò ch’aveti fattu secondu à l’altri, è definisce i vostri scopi ghjurnalieru o settimanale di cuntribuzione.
 
 ## Validation criteria
 
 contribution-criteria-nav = Criterii
 contribution-criteria-link = Capisce i criterii di cuntribuzione
 contribution-criteria-page-title = Criterii di cuntribuzione
+contribution-criteria-page-description = Capiscite ciò ch'ellu ci vole à circà quandu ascultate campioni urali è migliurate i vostri campioni !
 contribution-for-example = Per asempiu
+contribution-misreadings-title = Sbaglii di lettura
+contribution-misreadings-description = Ascultendu, feti casu chè e parolle prununciate sianu e stesse chè quelle scritte ; ricusate ancu s'ellu ci sò chjuchi sbaglii. <br /> I sbaglii i più currenti ponu esse:
+contribution-misreadings-description-extended-list-2 = Manca a marca di u plurale o a <strong>vucale finale</strong> à a fine d'una parolla.
 contribution-misreadings-description-extended-list-4 = Sminticà a fine di a parolla cumpiendu l'arrighjistramentu troppu in furia.
 contribution-misreadings-example-2-title = U dinosauru gigante di u Triassicu.
 contribution-misreadings-example-3-title = I dinusauri giganti di u Triassi-.
