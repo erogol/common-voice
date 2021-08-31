@@ -78,6 +78,7 @@ hy-AM = 亞美尼亞文
 hyw = 西亞美尼亞文
 ia = 因特文
 id = 印尼文
+ie = 西方國際語
 is = 冰島文
 it = 義大利文
 izh = 伊喬里亞文
@@ -884,9 +885,12 @@ demo-dashboard-card-body = 對於每段貢獻咗出嚟嘅錄音同埋經過驗�
 
 ## Validation criteria
 
+contribution-criteria-nav = 準則
+contribution-criteria-link = 瞭解貢獻準則
 contribution-criteria-page-title = 貢獻準則
 contribution-for-example = 例如
 contribution-misreadings-title = 誤讀
+contribution-varying-pronunciations-title = 讀音差異
 contribution-background-noise-title = 背景噪音
 contribution-background-voices-title = 背景人聲
 contribution-volume-title = 音量
