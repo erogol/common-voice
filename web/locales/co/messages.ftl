@@ -311,12 +311,14 @@ faq-how-get-a = A banca di dati Common Voice hè dispunibile à u scaricamentu s
 faq-when-release2-q = Quandu publicareti i dati di Common Voice in altre lingue ?
 faq-why-mission-q = Parchì Common Voice fà parte di a missione di Mozilla ?
 faq-what-cv-and-deepspeech-q = Chì gjhè a differenza trà Common Voice è Deep Speech ?
+faq-what-cv-and-deepspeech-a = A banca di dati Common Voice cumpleta u mutore di ricunniscenza vucale di Mozilla, Deep Speech. A prima versione di Deep Speech hè stata publicata di nuvembre 2017 e hà sempre evuluatu dapoi. Cridimu chì sta tecnulugia di ricunniscenza vucale, incù a banca di dati, duvariani esse dispunibile per tutti. Speremu chì isse tecnulugie aiutarani i sviluppadori à creà un’onda di prudutti è servizii innuvanti.
 faq-is-goal-assistant-q = U scopu di Common Voice saria di custruisce un assistente vucale ?
 faq-is-goal-assistant-a = U scopu di a banca di dati Common Voice hè di permette à tutt'ognunu in lu mondu sanu di sviluppà applicazioni di ricunniscenza vocale, di ricunniscenza di i lucutori, o qualsiasi tippu d'applicazioni chì richerghi dati vocali. Un assistente vucale hè solu unu di i numarosi tippi d'applicazioni chì si puderia fà aduprendu a banca di dati.
 faq-do-want-native-q = Issa lingua ùn hè micca a mè lingua materna è aghju un accentu, vuleti quantunque a mè voce ?
 faq-do-want-native-a = Iè, vulemu in particulari a vostra voce! Una parte di l'ughjettivu di Common Voice hè di riunisce u mori accenti sfarenti pussibule pà fà funziunà i servizii di ricunniscenza vucale ugualmente bè per tutti. Questu vole dì chì e cuntribuzione da lucutori non nativi sò particularmente impurtanti.
 faq-why-different-speakers-q = Parchì avete bisognu di tanti lucutori differente per ogni lingua ?
 faq-why-my-lang-q = Parchì a me lingua ùn hè ancu inghjusa ?
+faq-why-my-lang-new-a = Mozilla ùn sceglie o favurisci alcuna lingua sopr’à un’altra. A u cuntrariu, Common Voice hè un iniziativa di a cumunità, mà ci sò <multilangLink>parechje tappe pà aghjunghje una lingua addizziunale</multilangLink> è principià à racoglie campioni vucali. Primu, u situ web di Common Voice hà da esse traduttu pà esse accessibile à i locutori di sta lingua. Sicondu, avemu bisognu d’una tamanta cullezione d’infrasate libare di dritti pà esse lighjiti ad alta voce. Hè solu quandu issi duie cundizione sò suddesfani chi una lingua hè « lanciata » in Common Voice hè chì la ghjenti poni principià à arrighjistrassi è a cunvalidà l’altri. Si vuleti aiutà à lancià una lingua, addirizzatevi à <sentenceCollectorLink>l’arnese di racogliera d’infrasate</sentenceCollectorLink>.
 faq-what-quality-q = Chì niveddu di qualità audio hè richiestu pà avè un campione di voce adupratu in a banca di dati ?
 faq-why-10k-hours-q = Parchì sò 10,000 ore d'arrighjistramenti cunvalidate u scopu ?
 faq-why-10k-hours-a = Hè più o menu a quantità d'ore necessarii pà addestrà un sistemu di pruduzzione di voce-à-u-testu.
@@ -565,6 +567,7 @@ listen-again-instruction = Un bellu travagliu ! <playIcon></playIcon> Ascolta to
 listen-last-time-instruction = <playIcon></playIcon>L'ultimu !
 listen-empty-state = Ùn avemu più campioni dà cunvalidà in issa lingua...
 speak-empty-state = Ùn avemu più infrasate à arrighjistrà in issa lingua...
+speak-empty-state-cta = Prupone incù altre infrasate
 record-button-label = Arrighjistrà a vostra voce
 share-title-new = <bold>Aiutate ci</bold> à truvà voci in più
 keep-track-profile = Seguiteti i vostri prugressi creendu un prufilu
@@ -599,6 +602,11 @@ days =
     { $count ->
         [one] Ghjornu
        *[other] Ghjorni
+    }
+recordings =
+    { $count ->
+        [one] Arrighjistramentu
+       *[other] Arrighjistramenti
     }
 validations =
     { $count ->
@@ -665,6 +673,8 @@ n-clips-pluralized =
 help-share-goal = Aiutate ci à truvà voci in più, spartite u vostru scopu
 confirm-goal = Cunfirmà u scopu
 goal-interval-weekly = Settimanale
+# $type is one of share-goal-type-*
+share-n-daily-contribution-goal = Sparte u vostru scopu ghjurnalieru di { $count } campioni { $type }
 weekly-goal-created = U vostru scopu sittimanale hè statu creatu
 daily-goal-created = U vostru scopu ghjurnalieru hè statu creatu
 share-goal = Sparte u mo scopu
