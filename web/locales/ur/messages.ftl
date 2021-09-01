@@ -78,6 +78,7 @@ hy-AM = آرمينيائى
 hyw = آرمینیائی مغربی
 ia = انٹرلنگوا
 id = ‏‏انڈونیشین
+ie = انٹرلنگوا
 is = آئس لينڈى
 it = اطالوی
 izh = ایزورین
@@ -112,8 +113,10 @@ my = برمی
 myv = ایرزیا
 nb-NO = نارویجین بوکمل
 ne-NP = نیپالی
+nia = نیاس
 nl = ڈچ
 nn-NO = نورویجیئن نینورسک
+nyn = نیانکولے۔
 oc = آكسيٹان
 or = اوڈیا
 pa-IN = پنجابی
@@ -898,5 +901,6 @@ demo-dashboard-card-header = ذاتی ڈیش بورڈز آپ کو انفرادی
 ## Validation criteria
 
 contribution-for-example = مثال کے طور پر
+contribution-misreadings-title = غلط پڑھنا۔
 contribution-misreadings-example-1-title = ٹرائاسک کا دیوہیکل ڈائنوسار۔
 contribution-misreadings-example-2-title = ٹرائاسک کا دیوہیکل ڈائنوسار۔
