@@ -876,7 +876,7 @@ weekly-goal-created = Ваша ціль на тиждень створена
 daily-goal-created = Ваша щоденна ціль створена
 track-progress = Відстежуйте свій прогрес тут і на сторінці статистики.
 return-to-edit-goal = Поверніться сюди, щоб змінити ціль у будь-який час.
-share-goal = Поділитися моєю ціллю
+share-goal = Розповісти про свою ціль
 
 ## Profile Delete
 
