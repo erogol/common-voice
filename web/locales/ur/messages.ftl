@@ -146,6 +146,7 @@ th = تھائى
 tl = ٹیگا لوگ
 tr = ترک
 tt = ‏‏طاطاری
+tw = توی
 uby = اوبیخ
 udm = اڈمورٹ
 ug = ایغور
@@ -155,6 +156,7 @@ uz = ازبک
 vec = وینشین
 vi = ویتنامی
 vot = ووٹک
+yo = یوروبا
 yue = کینٹونی
 zh-CN = چینی (چین)
 zh-HK = چینی (ہانگ کانگ)
@@ -576,8 +578,6 @@ subscribe = رکن بنیں
 get-started-speech = تقریر کی پہچان کے ساتھ آغاز کریں
 other-datasets = دوسرے وائس ڈیٹاسیٹس
 feedback-q = آپ کی رائے ہے؟
-deepspeech-info = کامن وائس ڈیٹاسیٹ موزیلا کے اوپن سورس صوتی شناس انجن ڈیپ سپیچ کی تکمیل کرتا ہے ، جسے آپ گفتگو شناس ایپلی کیشنز کی تعمیر کے لئے استعمال کرسکتے ہیں ۔  شروع کرنے کا طریقہ سیکھنے کے لئے ہمارا </ githubLink> گٹ ہب جائزہ <githubLink>  پڑھیں یا </discourseLink>  ڈیپ اسپیچ ڈسکورس لنک <discourseLink> میں شامل ہوں۔
-common-voice-info-new = کیا کامن وائس کے بارے میں سوالات ہیں ؟ کسی مخصوص زبان کی بہتری یا رائے بارے خیالات ؟ ہمارے <discourseLink> گفتگو فورم </discourseLink> پر ہمارے ساتھ شامل ہوں اور ہمیں بتائیں.
 data-other-librispeech-description = لائبرسپیچ  تقریبا 1000 گھنٹوں کا 16Khz ریڈ انگلش گفتگو پر مشتمل کارپس ہے جو لائبری ووکس پراجیکٹ کی ریڈ آڈیو کتابوں سے اخذ کیا گیا۔
 data-other-ted-name = TED-LIUM Corpus
 data-other-ted-description = TED-LIUM  کارپس آڈیو گفتگو سے بنایا گیا تھا اور ان کی تحریری نقلیں TED کی ویب سائٹ پر دستیاب ہیں۔
@@ -894,3 +894,9 @@ demo-listen-subtitle = شراکت کے لئے تیار ہیں؟
 ## Demo Dashboard
 
 demo-dashboard-card-header = ذاتی ڈیش بورڈز آپ کو انفرادی اور گروہی پیشرفت کے بارے میں آگاہ رکھتے ہیں۔
+
+## Validation criteria
+
+contribution-for-example = مثال کے طور پر
+contribution-misreadings-example-1-title = ٹرائاسک کا دیوہیکل ڈائنوسار۔
+contribution-misreadings-example-2-title = ٹرائاسک کا دیوہیکل ڈائنوسار۔
