@@ -723,6 +723,7 @@ demo-account = Contu
 ## Demo Account
 
 demo-account-card-header = Ùn c'hè bisognu di contu pà cuntribuisce, ancu s'ellu hè ghjuvevule.
+demo-account-card-body = À a diritta, discrivimu i vantaghji è chjarifichemu l'infurmazioni chè no rendemu publiche. Appughjate à nant'à i ligami quì sottu per principià incù un contu Common Voice nant'à u vostru apparechju.
 demo-account-enter-email =
     .label = Scrivite u vostru indirizzu elettronicu pà riceve un ligame d'iscrizzione
 demo-account-sign-up = Mandà u ligame d'iscrizzione
@@ -735,6 +736,7 @@ demo-listen-subtitle = Seti pronti à cuntribuisce ?
 
 ## Demo Dashboard
 
+demo-dashboard-card-header = I tavuloni di cumanda parsunale vi tenenu à capu di i vostri prugressi individuali è di quelli di a cumunità.
 demo-dashboard-card-body = Per ogni campione datu è ogni campione vucale cunvalidatu, u vostru tavulonu di cumande hè messu à ghjornu per riflettà i vostri prugressi attuali in ogni lingua à a quella vo aveti cuntribuitu. Iè, si pò cuntribuisce in più chè una !<br/><br/> U vostru tavulone di cumande s’impiega per seguità e vostre statistiche, per vede ciò ch’aveti fattu secondu à l’altri, è definisce i vostri scopi ghjurnalieru o settimanale di cuntribuzione.
 
 ## Validation criteria
@@ -748,6 +750,8 @@ contribution-misreadings-title = Sbaglii di lettura
 contribution-misreadings-description = Ascultendu, feti casu chè e parolle prununciate sianu e stesse chè quelle scritte ; ricusate ancu s'ellu ci sò chjuchi sbaglii. <br /> I sbaglii i più currenti ponu esse:
 contribution-misreadings-description-extended-list-2 = Manca a marca di u plurale o a <strong>vucale finale</strong> à a fine d'una parolla.
 contribution-misreadings-description-extended-list-4 = Sminticà a fine di a parolla cumpiendu l'arrighjistramentu troppu in furia.
+contribution-misreadings-description-extended-list-5 = Ripigliate vi parechje volte per leghje una parolla.
+contribution-misreadings-example-1-title = I dinusauri giganti di u Triassicu.
 contribution-misreadings-example-2-title = U dinosauru gigante di u Triassicu.
 contribution-misreadings-example-3-title = I dinusauri giganti di u Triassi-.
 contribution-misreadings-example-3-explanation = [Arrighjistramentu piantatu nanzu à a fine di l'ultima parolla]
@@ -755,8 +759,22 @@ contribution-misreadings-example-4-title = I dinusauri giganti di u Triassicu. I
 contribution-misreadings-example-4-explanation = [L'arrighjistramentu hè più longu chè u testu privistu]
 contribution-misreadings-example-5-title = Ci n'andemu fora per piglià un caffè.
 contribution-varying-pronunciations-title = Prununcie variabile
+contribution-varying-pronunciations-description = Feti casu nanzu di ricusà un campionu per via d'un sbagliu di prununcia, d'aletta o di sminticu di puntu d'interrogazione. Esistanu parechji varietà di prununcie in u mondu, forse ch'ùn l'aveti micca tutte sente ind'è vo. Per piacè, date vi una margine d'appreziamentu per quelli ch'ùn parlanu micca cume voi.
+contribution-varying-pronunciations-description-extended = D'un antru latu, sè vo pinsate chè u lettore ùn hà forse mai incuntratu a parolla è ch'ellu si face un sbagliu annant'à a prununcia, per piacè ricusate l'arrighjistramentu. Sè ùn site micca sicuru, appughjate annant'à u buttone scappà.
+contribution-background-noise-title = Rimore di fondu
+contribution-background-noise-description = Vulemu che l'algoritmi siani in capacità d'ammaistrà una varietà maiò di rimori di fondu, è ancu s'elli sò forti tandu ch'ellu si pò sempri sente u testu sanu. Una musica di fondu pò esse accettata s'ella ùn impedisce micca a capiscitura d'ogni parolla.
+contribution-background-noise-description-extended = Sè l'arrighjistramentu si pianta o s'ellu hà certi prublemi, ricusate lu a menu chè u testu ferma capiscitoghju di manera sana.
 contribution-background-noise-example-2-explanation = [Una parte di u testu ùn si pò sente]
 contribution-background-voices-title = Voce di fondu
+contribution-background-voices-description = Un chjucu rimoru di fondu hè accettatu mà ùn si pò avè voci in più di quella di l'arrighjistramentu perchè ponu fà chì l'algoritmu identificheghja antre parolle che quelle scritte. Se pudeti sente parolle sfarente di quelle di u testu, l'arrighjistramentu deve esse ricusatu. Si pò accadde quandu a televisiò hè stata accesa o quandu a ghjente tene una discuzzione vicina.
+contribution-background-voices-description-extended = Sè l'arrighjistramentu si pianta o s'ellu hà d'altri prublemi, ricusate lu à menu ch'ellu sia sempre capiscitoghju di manera sana.
+contribution-background-voices-example-1-title = I dinusauri giganti di u Triassicu. <strong>[lettu da una voce unica]</strong>
+contribution-background-voices-example-1-explanation = Venite ? <strong> [chjamatu da un altru] </strong>
 contribution-volume-title = Volume
 contribution-volume-description = Ci seranu variazioni di volume trà i sfarenti lettori. Ricusà solu sè u volume hè cusì altu chì l'arrighjistramentu pianta, o (di manera più cummuna) s'ellu hè cusì bassu ch'ùn si sente micca u testu.
+contribution-reader-effects-title = Effetti di lettura
 contribution-reader-effects-description = A maiurità di l'arrighjistramenti sò di parsoni chi parlani nurmalamente. Pudeti cunvalidà di tempi à tempi un arrighjistramenti mughjatu, sussuratu o in una voce teatrale. Per piacè ricuseti arrighjistramenti chì sò cantati o fati cù una voce artificiale.
+contribution-just-unsure-title = Ùn site micca sicuru ?
+contribution-just-unsure-description = Sè vo incuntrate calcosa ch'ùn hè micca pigliatu in contu in isse istruzzione, vutate cum'ella vi pare u megliu. Sè un vi pudeti decidà, pichjate annant'à u buttone scappà è andate à u prossimu campionu.
+see-more = <chevron></chevron>Vedene di più
+see-less = <chevron></chevron>Vedene di menu
