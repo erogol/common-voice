@@ -78,6 +78,7 @@ hy-AM = Armèni
 hyw = Armèni occidental
 ia = Interlingua
 id = Indonesian
+ie = Interlingua
 is = Islandés
 it = Italian
 izh = Ingrian
@@ -280,6 +281,7 @@ shortcut-record-toggle = a
 shortcut-record-toggle-label = Enregistrar/Arrestar
 shortcut-rerecord-toggle = [1-5]
 shortcut-rerecord-toggle-label = Tornar enregistrar la mòstra
+shortcut-submit = Entrada
 request-language-text = Trobatz pas encara vòstra lenga sus Common Voice ?
 request-language-button = Demandar una lenga
 
@@ -351,26 +353,17 @@ skip-submission-description = Lo mandadís de comentaris serà desactivat aprèp
 skip-submission-note = Nòta : vos cal encara causir entre Parlar o Escotar per modificar vòstre tipe de contribucion.
 off = Desactivat
 on = Activat
-avatar-clip-title = Donatz una votz a vòstre avatar
-change-your-avatar-clip = Volètz cambiar vòstra mòstra de votz ?
-recording-in-progress = Enregistrament de votz en cors
-avatar-clip-recorded = Vòstre avatar inclutz ara una mòstra de votz !
-record-voice-wave = ENREGISTRAR VÒSTRA PRESENTACION
-retry-voice-wave-recording = TORNAR FAR
-re-record = TORNAR ENREGISTRAR
-delete-voice = SUPRIMIR
-recording-voice-wave = Enregistrament
-delete-voice-clip = o Suprimir vòstra mòstra de votz
-ready-to-upload = ENVIAR
-avatar-clip-fact = Es un fach ben conegut qu'un lector serà distrach pel contengut legible d'una pagina quand examinarà sa mesa en pagina.
-recreate-voice = Tornar crear vòstra mòstra de votz
-cancel-avatar-clip-recording = ANULLAR
-about-avatar-clip-recording = Creatz una mòstra per vòstra avatar. Las autras personas poiràn escotar vòstra mòstra en passant lor cursor dessús.
+
+## Profile - Email
+
 browse-file-title = Enviar un imatge
 browse-file = Lissatz-depausatz o <browseWrap>Percorrètz</browseWrap>
 connect-gravatar = Connectatz-vos amb Gravatar
 gravatar_not_found = Cap de gravatar pas trobat per vòstra adreça electronica
 file_too_large = Lo fichièr seleccionat es tròp pesuc
+
+## Profile - Email
+
 manage-subscriptions = Gerir las abonaments
 manage-email-subscriptions = Gerir los abonaments als corrièls
 email-already-used = Aquesta adreça electronica es ja utilizada per un autre compte
@@ -564,8 +557,6 @@ subscribe = S’abonar
 get-started-speech = Introduccion a la reconeissença vocala
 other-datasets = Autres jòcs de donadas
 feedback-q = Avètz de suggestions ?
-deepspeech-info = Lo jòc de donadas de Common Voice de Mozilla es un complementari al motor de reconeissença vocala Deep Speech, que podètz utilizar per crear d’aplicacions de reconeissença vocala. Consultatz nòstre <githubLink>apercebut sus GitHub</githubLink> o visitatz nòstre <discourseLink>Discourse DeepSpeech</discourseLink> per obténer d’informacions per ben començar.
-common-voice-info-new = Avètz de questions tocant Common Voice ? D’idèas de melhoraments o comentaris sus una lenga en particular ? Trapatz-nos sus nòstre <discourseLink>forum Discourse</discourseLink> e avisatz-nos.
 data-other-librispeech-description = LibriSpeech es un còpus de quicòm coma 1000 oras de lectura en anglés ( 16 Khz ) derivat de la lectura d’audiolibres del projècte LibriVox.
 data-other-ted-name = Corpus TED-LIUM
 data-other-ted-description = Lo còrpus TED-LIUM es bastit amb de dialogues e lor transcripcions disponiblas sul site TED.
@@ -824,6 +815,10 @@ read-more-about = Per ne saber mai anatz a la pagina A prepaus
 
 ## Demo Datasets
 
+demo-language-select-label = Percórrer las lengas
+demo-eofy-header = Version de din 2019
+demo-eofy-sub_header = Jòc de donadas vocalas, prèst pel telecargament
+demo-account = Compte
 
 ## Demo Account
 
@@ -833,3 +828,9 @@ read-more-about = Per ne saber mai anatz a la pagina A prepaus
 
 ## Demo Dashboard
 
+
+## Validation criteria
+
+contribution-for-example = per exemple
+contribution-background-noise-title = Bruch de fons
+contribution-volume-title = Volum
