@@ -316,45 +316,344 @@ profile-form-additional-language =
     .label = 其他語言
 profile-form-accent =
     .label = 腔調
+profile-form-age =
+    .label = 年齡
+profile-form-gender-2 =
+    .label = 性別
+leaderboard-visibility =
+    .label = 是否顯示於排行榜
+hidden = 隱藏
+visible = 可見
+native-language =
+    .label = 母語
+profile-form-submit-save = 儲存
+profile-form-submit-saved = 已儲存
+male = 男性
+female = 女性
+# Gender
+other = 其他
+why-profile-title = 為什麼需要帳號？
+why-profile-text = 語音識別引擎將可使用您提供給我們的資訊，讓您送出給 Common Voice 的語音資料被更加善用，改善準確度。
+dashboard = 儀錶板
+build-profile = 建立個人資料
+avatar = 頭像
+goals = 目標
+settings = 設定
+edit-profile = 編輯帳號資料
+profile-create-success = 帳號建立成功！
+profile-close = 關閉
+profile-explanation = 保留您的專案紀錄，並幫助增加我們的語音資料準確度。
+thanks-for-account = 感謝您確認帳號資訊，接下來請提供您的基本資料。
+why-demographic = 這有什麼重要的？
+why-demographic-explanation-2 = 匿名化的使用者資料，如年齡、性別、腔調等，可幫助我們改善用來訓練語音識別引擎的語音資料。您的帳號與 E-Mail 不會與送出的資料相關聯，您也可以決定是否要公開您的帳號名稱或保持匿名。
+accept-privacy = 我同意你依照 Mozilla 的<privacyLink>隱私權保護政策</privacyLink>當中描述的方式處理這些資訊
+accept-privacy-title = 隱私權保護政策
+login-identity = 登入身分
+login-signup = 登入 / 註冊
+edit = 編輯
+email-subscriptions = 電子郵件訂閱
+download-profile = 下載我的資料
+contribution-experience = 貢獻機會
+skip-submission-feedback = 跳過送出意見回饋
+skip-submission-description = 貢獻過程中，在點擊「送出」後將忽略意見回饋，直接進到下一組的五筆錄音或驗證。
+skip-submission-note = 註: 您仍須要選擇「聽」或「說」來切換貢獻類型。
+off = 關
+on = 開
 
 ## Profile - Email
 
+browse-file-title = 上傳圖片
+browse-file = 拖曳至此處，或<browseWrap>瀏覽</browseWrap>
+connect-gravatar = 連結 Gravatar
+gravatar_not_found = 找不到您電子郵件信箱的 Gravatar
+file_too_large = 選擇的檔案太大
+avatar-uploaded = 已上傳大頭照
+max-file-size = 最大 { $kb }kb
 
 ## Profile - Email
 
+manage-subscriptions = 管理訂閱
+manage-email-subscriptions = 管理電子報訂閱項目
+email-already-used = 電子郵件地址已用於其他帳號
+add-language = 新增語言
+change-email-setings = 請到「設定」的「登入身分」修改 Email 地址
 
 ## FAQ
 
+faq-title = 常見問題
+faq-what-cv-q = Common Voice 是什麼？
+faq-what-cv-a =
+    語音識別技術正在改變我們與機器互動的方式，但目前可用的系統都相當昂貴，並且是專有技術。Common Voice 是 Mozilla 打算讓語音識別技術變得更好、讓任何人都更能使用的計畫的一部分。Common Voice 也是一套收集了世界各地人們所捐贈的語音的資料庫，希望讓任何人都可以快速而簡單地訓練出可識別任何語音功能的應用程式。
+    
+    我們不只想收集被廣泛使用的語言的語音樣本，也想要收集較少人使用的語言的語音樣本。發布一套廣泛的語音資料集，可幫助開發者、創業家，以及各個社群來縮小彼此之間的鴻溝。除了 Common Voice 的資料集外，我們也在打造一套稱為 Deep Speech 的開放原始碼語音識別引擎。
+faq-what-cv-a-2 =
+    語音識別技術正在改變我們與機器互動的方式，但目前可用的系統都相當昂貴，並且是專有技術。Mozilla Common Voice 是打算讓語音識別技術變得更好、讓任何人都更能使用的計畫。Common Voice 也是一套收集了世界各地人們所捐贈的語音的資料庫，希望讓任何人都可以快速而簡單地訓練出可識別任何語音功能的應用程式。
+    
+    我們不只想收集被廣泛使用的語言的語音樣本，也想要收集較少人使用的語言的語音樣本。發布一套廣泛的語音資料集，可幫助開發者、創業家，以及各個社群來縮小彼此之間的鴻溝。
+faq-why-important-q = 這有什麼重要的？
+faq-why-important-a =
+    說話通常是我們與其他人最自然的溝通方式，語音技術也讓電腦和行動裝置更方便使用。我們希望讓開發者們建置令人驚嘆的語音識別應用程式，例如即時翻譯機、有語音功能的數位助理等等。但現在用來建置這些軟體所需的語音資料，大部分都是昂貴且專有的，因而我們希望能提供 Common Voice 資料集給開發者進行創新，也讓他們能使用自己的語言來打造語音技術。
+    
+    為了讓語音識別技術能夠更加普遍，我們收集不論是有廣大使用者，或是較少使用者會說的語言（大部分商業語音識別服務對此類語言都缺少支援）的語音片段，並發布一組含多元語言與腔調的語音資料集，希望能提供給開發者、創業家、以及整個語音技術社群來跨越這個鴻溝。
+faq-how-get-q = 我要如何取得 Common Voice 資料？
+faq-how-get-a = 可到 <datasetLink>Common Voice 資料集頁面</datasetLink>下載，本資料集使用 <licenseLink>CC0</licenseLink> 授權。您也可以在該頁面中下載幾套其他的資料集。
+faq-when-release2-q = 你們什麼時候會發布其他語言的 Common Voice 資料？
+faq-when-release2-a = 多語言版本的 Common Voice 資料集，目前正交由社群進行清理與打包。若您想要幫助我們加入新語言到 Common Voice，請使用 <sentenceCollectorLink>語句收集工具</sentenceCollectorLink>來加入語句到資料集，並到 <pontoonLink>Mozilla Pontoon</pontoonLink> 來將網站翻譯成該語言。每種語言有超過 5000 句語句審核完成後，就會加入 Common Voice。
+faq-why-mission-q = 為什麼 Common Voice 也是 Mozilla 使命的一部分？
+faq-why-mission-a = Mozilla 致力於保持網路開放，讓任何人都可使用。為達到這個目標，我們要透過像 Common Voice 這樣的專案來協助網路上的創作者來得到威力。隨著採用語音技術的程式激增，我們相信這些程式應該平等地服務所有使用者。這代表打造與測試語音科技時，需要滿足更多語言、腔調、人口的需求。Common Voice 將會成為一套能夠幫助 Mozilla 與全球開發者們的公眾資源，並已用於專案開發當中。
+faq-what-cv-and-deepspeech-q = Common Voice 跟 Deep Speech 有何不同？
+faq-what-cv-and-deepspeech-a = Common Voice 能夠與 Mozilla 的開放原始碼語音識別引擎 Deep Speech 互補。初版的 Deep Speech 發行於 2017 年 11 月，並持續發展。與 Common Voice 資料集一起，我們相信這套開放原始碼語音辨識技術應開放給所有人使用，也希望這些技術可讓開發者打造出一波創新產品與服務。
+faq-is-goal-assistant-q = Common Voice 的目標是要打造語音助理嗎？
+faq-is-goal-assistant-a = Common Voice 資料集的目標是希望讓任何人都能打造語音識別、說話者識別，以及任何其他需要語音資料的應用。語音助理只是您能用來打造的應用之一。
+faq-do-want-native-q = 某種語言不是我的母語而且講話有點口音，你們還會想要我的聲音嗎？
+faq-do-want-native-a = 是的，而且我們特別想要您的聲音！Common Voice 有一部分目標是盡可能收集各種口音，讓語音識別服務能適用於每個人。這代表非母語人士的貢獻尤其重要。
+faq-why-different-speakers-q = 為什麼你們需要這麼多會說各種語言的人？
+faq-why-different-speakers-a =
+    大多數的語音資料庫的語音來源偏重於某群特定人口，造成結果偏向於<articleLink>男性與中產階級</articleLink>。而在訓練資料集中，各種不同的口音與方言會與被邊緣化的人群相關連起來。許多機器也很難理解女性的聲音。
+    這就是為什麼我們的語音資料庫應該海納百川，收集各種語音！
+faq-why-my-lang-q = 為什麼還沒有我的語言？
+faq-why-my-lang-new-a = Mozilla 不特別偏好哪種語言，然而 Common Voice 是一個純社群發起的專案，需要<multilangLink>幾個步驟才能新增語言</multilangLink>並開始收集語音片段。首先需要完成翻譯 Common Voice 網站，這樣社群成員才能用自己的語言進行貢獻。次之，我們需要大量的無版權語句，讓人們可以大聲說出來。當兩個條件都滿足後 Common Voice 即可「上線」，讓人們開始錄音，並驗證其他人所錄下的片段。若您想要協助準備讓新語言上限，歡迎到<sentenceCollectorLink>語句收集工具</sentenceCollectorLink>開始幫忙。
+faq-what-quality-q = 錄音品質要到什麼等級，才能用於資料集中？
+faq-what-quality-a = 我們希望 Common Voice 資料集能夠反映出語音轉文字引擎就算在野外也會聽到的聲音，所以我們希望能夠收集各種環境與錄音品質下的片段。除了各種說話者以外，若資料集中包含各種語音品質的片段，可讓語音轉文字引擎處理各種現實環境下的狀況，例如背景中有人在講話，或是有車輛的噪音。只要您的片段能讓人足夠聽得懂，即可收錄至資料集中。
+faq-why-10k-hours-q = 為什麼每個語言有一萬小時的音檔驗證目標？
+faq-why-10k-hours-a = 這是用來訓練語音轉文字系統所需的大約時數。
+faq-how-calc-hours-q = Common Voice 如何計算時數？
+faq-how-calc-hours-a = 我們透過估算每筆錄音的平均長度來計算時數，並乘以所有語言錄音數量來計算。
+faq-where-src-from-2-q = 這些來源文本出自何處？
+faq-where-src-from-2-a =
+    我們的來源文本來自貢獻者的原始貢獻，以及來自公眾領域的影片，例如 <italic>It’s a Wonderful Life</italic> 的對白腳本。
+    
+    您可到此 <githubLink>GitHub 資料夾</githubLink>檢視我們的來源文本。
+faq-why-not-ask-read-q = 為什麼你們不讓人來念出各種語言的書本內容，或是維基百科條目？
+faq-why-not-ask-read-a = 為了讓 Common Voice 資料集能發會最大效益，我們決定只允許收錄以 Creative Commons (CC0) 授權條款提供使用的來源文本。會比較難找到使用 CC0 條款的來源文本，但可讓任何人都使用產出的語音資料，而不需受 Mozilla 的限制或授權。最終我們讓多語言資料集，為所有人（包含研究者、大學、創業公司、政府、社團組織、有興趣的人）發揮最大效益。
+faq-why-account-q = 為什麼我要註冊帳號？
+faq-is-account-public-q = 我的帳號資料是公開的嗎？
+faq-how-privacy-q = 你們如何確保匿名性，以及貢獻語音的人的隱私？
+faq-how-privacy-a = 資料集中所有的錄音片段都不會包含可識別出個人的資訊。若貢獻者提供個人相關資料，該資訊將在錄音片段被合併成資料集提供下載前去識別化，永遠不會公開在他們的個人資料頁面中公開。
+faq-what-determine-identity-q = 在 Common Voice 資料集中無法「確認發言者身分」是什麼意思？
+faq-what-determine-identity-a =
+    Common Voice 資料集是一份開放，可公開使用的資源。含有語音功能的應用程式可使用這份資料來訓練程式。為了保護貢獻者的安全，我們要求所有下載 Common Voice 資料集的人確保貢獻者的隱私安全。
+    
+    所有語音片段中的個人識別資料已經清除。當您下載資料集時，就代表您同意不會識別資料集當中的任何貢獻者。這代表您不得嘗試將資料集中的資訊，與貢獻者的個人資訊連結起來。但您可以將資料集中的不同資訊互相連結起來，用來訓練語音識別、說話者識別等功能，或其他應用程式。
+faq-what-is-cv = Common Voice 是什麼？
+faq-using-cv = 使用 Common Voice
+faq-description = Common Voice 是 Mozilla 想讓機器學會真人說話方式的專案。
+faq-search-for-answers =
+    .label = 搜尋解答
 
 ## ABOUT US
 
+about-title = 為什麼會有 Common Voice？
+about-subtitle = Common Voice 是 Mozilla 想讓機器學會真人說話方式的專案。除了 Common Voice 資料集外，我們也正在打造一套稱為 Deep Speech 的開放原始碼語音識別引擎。
+about-header-description =
+    這兩個專案都是我們努力弭平數位語音落差的一部份。語音識別技術可讓我們的裝置帶來人性，但開發者需要極為龐大數量的語音資料，才能打造出這樣的系統。目前大部分語音資料都相當昂貴，也是專有的資料。
+    我們希望讓語音資料能夠公開自由使用，並確保資料反映出人們實際的多樣性。讓我們一起為所有人把語音識別技術變得更好吧！
+about-header-description-2 =
+    此專案是我們為了努力弭平數位語音落差所做的努力。語音識別技術可讓我們的裝置帶來人性，但開發者需要極為龐大數量的語音資料，才能打造出這樣的系統。目前大部分語音資料都相當昂貴，也是專有的資料。
+    我們希望讓語音資料能夠公開自由使用，並確保資料反映出人們實際的多樣性。讓我們一起為所有人把語音識別技術變得更好吧！
+how-does-it-work-title = 原理是什麼？
+how-does-it-work-text = 我們集合眾人之力，打造開放原始碼的語音資料集。歡迎捐出您的聲音、協助驗證錄音片段是否正確，讓資料集能夠變得更好。
+about-speak = 說話
+about-speak-text = 貢獻者透過讀出一系列由他人捐贈的語料庫句子，將語音片段錄音下來。
+about-listen-queue = 聆聽佇列
+about-listen-queue-text = 錄下的片段將進入佇列中排隊，準備接受聆聽確認。
+about-listen = 聆聽確認
+about-listen-text = 使用者確認錄音片段是否精準，並確認說話者是否正確讀出了句子。
+about-is-it-valid = 片段正確嗎？
+about-is-it-valid-text = 若使用者投下「正確」，就會標示為有效。
+about-yes-votes = ≥ 2 張「正確」票
+about-yes-votes-text = 必須經過兩位不同的使用者確認過，片段才會進入 Common Voice 資料集。
+about-no-votes = ≥ 2 張「不正確」票
+about-no-votes-text = 若使用者投下不正確，片段就會回到佇列重新排隊。若被退回第二次，片段就會就會被丟進回收桶。
+about-dataset-new = Common Voice 資料集
+about-dataset-new-text = Common Voice 資料集包含數十萬筆語音樣本，可幫助開發者打造語音識別工具。
+about-clip-graveyard = 片段回收桶
+about-clip-graveyard-text = 回收桶中包含無法進入 Common Voice 資料集的語音片段。與資料集一樣，回收桶內容也有提供下載。
+about-partners = 夥伴
+about-become-a-partner = 成為夥伴
+about-partnership =
+    Common Voice 是一套由眾人鼎力相助的專案。我們依賴由夥伴與貢獻者所組成的社群，來打有史以來最大的開放原始碼語音資料集。
+    
+    特別感謝下列人員與組織單位，協助本專案:
+about-get-involved = 參與我們
+about-get-involved-text-2 =
+    想要幫忙讓 Common Voice 變得更棒嗎？
+    沒問題！請寄 E-Mail 給我們，也可以到 <discourseLink>Discourse</discourseLink>
+    討論區留言、透過 <githubLink>GitHub</githubLink> 回報網站問題、
+    或是加入我們的 <matrixLink>Matrix</matrixLink> 社群聊天室。
+about-nav-why-common-voice = 為什麼？
+about-nav-how-it-works = 怎麼做？
+about-nav-partners = 夥伴
+about-nav-get-involved = 參與我們
+mycroft-title = Mycroft Ai
+mycroft-subtitle = 人工智慧
+mycroft-description = Mycroft 是全球第一套的開放原始碼語音助理，不論是在電腦、車子、Raspberry Pi 或是任何地方都能運作。
+mycroft-secondary-description = 這是一套可以自由混搭、延伸、改進的開放原始碼軟體。Mycroft 可以用於科學專案，或企業軟體應用等各種情境中。
 
 ## Glossary
 
+glossary = 詞彙
+localization = 在地化
+localization-explanation = 這是我們為許多語系（語言）進行翻譯和調整內容的過程。
+sentence-collection = 語句集合
+sentence-collection-explanation = 收集公眾領域的語句，或使用公眾領域授權撰寫新的語句。
+hours-recorded-explanation = 到目前為止我們收集到的錄音時數。
+hours-validated-explanation = 每三位使用者當中，有兩位使用者投下「正確」的錄音時數。這也就是整個專案一萬小時目標的進度。
+sst = 語音轉文字（STT）
+sst-explanation = 語音轉文字（STT）技術可將語音資料轉為文字。
+de-identified = 去識別化
+de-identified-explanation = 在打包下載資料集時，貢獻者的個人資料會從其所貢獻的語音片段隱藏的過程。
 
 ## Error pages
 
+error-title-404 = 找不到您想要開啟的頁面
+error-content-404 = 也許從我們的<homepageLink>首頁</homepageLink>重新開始能幫到忙？若要詢問問題，可以加入<matrixLink>Matrix 社群聊天頻道</matrixLink>、關注 <githubLink>GitHub</githubLink> 上的網站問題回報，或到<discourseLink>我們的 Discourse 討論區</discourseLink>讓我們知道。
+error-title-503 = 發生了意外的停機時間
+error-content-503 = 網站將盡快恢復作業。請到我們的 <matrixLink>Matrix 社群聊天頻道</matrixLink>、<githubLink>GitHub</githubLink> 上的網站問題回報，或到 <discourseLink>Discourse 討論區</discourseLink>回報給我們，或取得最新資訊。
+error-code = 錯誤 { $code }
 
 ## Data
 
+data-download-button = 下載 Common Voice 資料
+data-download-yes = 好
+data-download-deny = 不要
+data-download-license = 授權條款: <licenseLink>CC-0</licenseLink>
+data-download-modal = 將會下載 <size>{ $size } GB</size> 的檔案，要繼續嗎？
+data-subtitle = 我們正在打造一套開放而可公開使用的語音資料集，讓每個人都可用來訓練應用程式中的語音功能。
+data-explanatory-text = 我們相信，大型而公開可用的語音資料集可以促進以機器學習為基礎技術的語音科技創新，與健康的商業競爭。這是一項全球性的努力，我們也邀請所有人參與。我們的目標是讓語音技術能夠更具包容性，反映出世界各地語音的多樣性。
+data-get-started = <speechBlogLink>語音辨識新手上路</speechBlogLink>
+data-other-title = 其他語音資料集…
+data-other-goto = 前往 { $name }
+data-other-download = 下載資料
+data-bundle-button = 下載資料集總組合
+data-bundle-description = Common Voice 資料，以及上面列出的所有其他語音資料集。
+release-version = 版本
+dataset-date = 日期
+license = 授權條款: <licenseLink>{ $license }</licenseLink>
+license-mixed = 混和
+data-download-singleword-title = 下載單字目標字串
+data-download-singleword-callout-v2 = 這是一個包含用來進行口述數字識別與是/否偵測的使用案例。
+review-terms = 使用 Common Voice，就代表您同意我們的<termsLink>使用條款</termsLink>與<privacyLink>隱私權公告</privacyLink>
+terms-agree = 我同意
+terms-disagree = 我不同意
+review-aborted = 上傳失敗，您要刪除錄音檔嗎？
+review-submit-title = 確認並送出
+review-submit-msg = 感謝您錄音！<lineBreak></lineBreak>接下來請在下方確認並送出錄音檔。
+review-recording = 確認
+review-rerecord = 重新錄音
+review-cancel = 取消送出
+review-keep-recordings = 保留錄音
+review-delete-recordings = 刪除我的錄音
 
 ## Datasets Page
 
+datasets-headline = 我們想建立一套開放原始碼、多重語言的語音資料集，讓任何人都可以用來開發語音相關應用。
+datasets-positioning =
+    我們相信若有一組大型、可公開使用的語音資料集，可奠定以機器學習為基礎的語音技術的創新，與健康的商業競爭。
+    
+    Common Voice 的多語言資料集已經成為最大的公開語音資料集，但不是唯一的一套。
+    
+    您可於此頁面找到其他的開放原始碼語音資料集。隨 Common Voice 持續成長，我們也會於此處張貼更新資訊。
+language = 語言
+# File size in gigabytes
+size = 大小
+validated-hr-total = 總驗證時數
+overall-hr-total = 全體總時數
+cv-license = 授權條款
+audio-format = 音檔格式
+number-of-voices = 錄音人數
+splits = 分割
+email-to-download = 輸入 E-Mail 即可下載
+why-email = <b>為什麼需要 E-Mail?</b>未來我們可能會聯絡您，提供資料集的相關更新資訊。E-Mail 可作為我們聯絡您的方式。
+confirm-size = 請準備好下載 <b>{ $size }</b> 的檔案
+size-gigabyte = GB
+size-megabyte = MB
+confirm-no-identify = <b>您同意</b>不嘗試識別 Common Voice 資料集中，說話者的身分
+download-language = 下載 { $language } 資料集
+validated-hours = 已驗證時數
+recorded-hours = 已錄製時數
+whats-inside = Common Voice 資料集當中有什麼？
+dataset-description-hours =
+    資料集中的每筆資料包含一組獨特的 MP3 錄音檔與對應的文字檔案。資料集中包含 <b>{ $total }</b> 小時錄製完成的片段，當中也包含有許多不同年齡層、性別、口音等，能夠幫助訓練語音識別引擎的人口統計資料。
+    
+    資料集中目前包含 <b>{ $valid }</b> 小時 <b>{ $languages }</b> 種語言的已驗證資料，但我們希望能夠持續加入更多語音與語言。歡迎到我們的<languagesLink>語言頁面</languagesLink>要求更多語言，開始加入貢獻。
+want-dataset-update = 想要在新的 Common Voice 資料集推出時收到通知嗎？請訂閱我們的電子報。
+subscribe = 訂閱
+get-started-speech = 語音辨識新手入門
+other-datasets = 其他語音資料集
+feedback-q = 有意見要回饋嗎？
+resource-nemo-info = <githubLink>NVIDIA NeMo</githubLink>™ 是一套讓研究者開發最先進的 AI 對話模型的<docsLink>開放原始碼工具組</docsLink>。
+resource-deepspeech-info = Mozilla 的開放原始碼語音識別引擎 Deep Speech，可用來打造語音識別應用程式。您可閱讀我們的 <githubLink>Github 概觀</githubLink>或加入 <discourseLink>DeepSpeech Discourse</discourseLink> 了解如何入門。
+resource-coqui-info = <coquiLink>Coqui</coquiLink> 致力於開放語音技術。他們的專案包含使用深度學習技術的 STT 與 TTS 引擎。
+community-playbook = 社群企劃書
+resource-playbook-info = <playbookLink>尋找對整個 Common Voice 貢獻過程的有用指南</playbookLink>，不論是從在地化、資料集使用方式，以及如何與我們的社群聯繫的相關資訊。
+data-other-librispeech-description = LibriSpeech 是一套取自 LibriVox 計畫，約一千小時長度的 16Khz 英語有聲書的語料庫。
+data-other-ted-name = TED-LIUM 語料庫
+data-other-ted-description = TED-LIUM 語料庫是從 TED 網站上的語音對話及轉錄文字製作而成的語料庫。
+data-other-voxforge-description = VoxForge 被設計來收集轉錄的對話內容，以供自由與開放原始碼的語音辨識引擎使用。
+data-other-tatoeba-description = Tatoeba 是一套用來進行語言學習的大型資料庫，當中包含了各種句型、翻譯以及語音。這個下載項目包含了由其社群所錄下的英語語音。
+your-feedback = 您有任何可以讓 Common Voice 資料集變得更好的點子嗎？歡迎到 Discourse 告訴我們
+go-discourse = 前往 Discourse
+missing-language = 沒在資料集中看到您的語言？請到語言頁面來要求加入新語言。
+go-languages-page = 前往語言頁面
+ready-to-validate = 準備好要幫助驗證句子了嗎？
+more = 更多
+close = 關閉
+download = 下載
+dataset-version = 版本
 
 ## Download Modal
 
+download-title = 已開始下載。
+download-helpus = 請幫助我們打造一個使用語音技術的社群，並透過電子郵件保持聯繫。
+download-form-email =
+    .label = 輸入您的電子郵件地址
+    .value = 感謝！我們很快就會聯繫您。
+download-back = 回到 Common Voice 資料集
+download-no = 不要，謝謝
 
 ## Contact Modal
 
+contact-title = 聯絡表單
+contact-form-name =
+    .label = 姓名
+contact-form-message =
+    .label = 訊息
+contact-required = * 必填
 
 ## Request Language Modal
 
+request-language-title = 語言請求
+request-language-form-language =
+    .label = 語言
+request-language-success-title = 已收到新語言請求，感謝您。
+request-language-success-content = 我們將很快在您的語言於 Common Voice 上線時通知您更多資訊。
+select-language = 選擇一種語言…
+other-language = 其他語言
 
 ## Languages Overview
 
+language-section-in-progress = 準備中
+language-section-in-progress-new-description = 這些語言目前正由社群開發中，進度條展示每種語言<localizationGlossaryLink>網站在地化</localizationGlossaryLink>及<sentenceCollectionGlossaryLink>搜集語句</sentenceCollectionGlossaryLink>的狀況。
+language-section-launched = 已上線
+language-section-launched-description = 以下「已上線」的語言，代表網站已經成功<localizationGlossaryLink>在地化</localizationGlossaryLink>，且也已經<sentenceCollectionGlossaryLink>搜集了夠多句子</sentenceCollectionGlossaryLink>讓大家能用<speakLink>說話</speakLink>及<listenLink>聆聽</listenLink>的方式貢獻。
+languages-show-more = 檢視更多
+languages-show-less = 檢視更少
+language-meter-in-progress = 進度
+language-total-progress = 總計
+language-search-input =
+    .placeholder = 搜尋
+language-speakers = 使用者數
+localized = 已翻譯
+sentences = 句子
+total-hours = 已驗證時數
 
 ## Contribution
 
+action-click = 點擊
+action-tap = 點選
+contribute = 參與貢獻
+listen = 聆聽
 
 ## Reporting
 
