@@ -162,6 +162,7 @@ vi = 越南語
 vot = 沃特語
 yo = 約魯巴語 (奈及利亞)
 yue = 粵語
+zh-CN = 華語（中國）
 zh-HK = 廣東話（香港）
 zh-TW = 華語（台灣）
 
@@ -654,39 +655,253 @@ action-click = 點擊
 action-tap = 點選
 contribute = 參與貢獻
 listen = 聆聽
+skip = 略過
+shortcuts = 捷徑
+clips-with-count-pluralized =
+    { $count ->
+        [one] <bold>{ $count }</bold> 個片段
+       *[other] <bold>{ $count }</bold> 個片段
+    }
+goal-help-recording = 您已幫助 Common Voice 完成 <goalPercentage></goalPercentage> 的每日 { $goalValue } 錄音目標！
+goal-help-validation = 您已幫助 Common Voice 完成 <goalPercentage></goalPercentage> 的每日 { $goalValue } 筆驗證目標！
+contribute-more = 準備好再作 { $count } 筆了嗎？
+record-cta = 開始錄音
+record-platform-not-supported = 很抱歉，目前暫不支援您的平台。
+record-platform-not-supported-desktop = 在桌上型電腦，您可以下載最新版的:
+record-platform-not-supported-ios-non-safari = 在 iOS 平台，請繼續前往 Safari 開啟錄音功能…
+record-must-allow-microphone = 您必須允許使用麥克風。
+record-no-mic-found = 找不到麥克風
+record-error-too-short = 錄音太短了。
+record-error-too-long = 錄音太長了。
+record-error-too-quiet = 錄音太小聲了。
+record-cancel = 取消重新錄音
+record-instruction = { $actionType } <recordIcon></recordIcon> 然後大聲說出句子
+record-stop-instruction = 完成後{ $actionType } <stopIcon></stopIcon>
+record-three-more-instruction = 還有三筆！
+record-again-instruction = 好！點擊<recordIcon></recordIcon>錄下下個片段
+record-again-instruction2 = 繼續加油，再錄一筆！<recordIcon></recordIcon>
+record-last-instruction = <recordIcon></recordIcon>最後一筆了！
+review-tooltip = 在此確認或重錄片段
+share-clip = 分享您的錄音片段
+share-common-voice = 分享 Common Voice
+review-instruction = 確認錄音內容，有需要的話可以重錄
+record-submit-tooltip = 準備好即可{ $actionType }送出
+clips-uploaded = 已上傳片段
+record-abort-title = 不先完成錄音嗎？
+record-abort-text = 如果要現在離開，會失去目前的進度
+record-abort-submit = 送出片段
+record-abort-continue = 完成錄音
+record-abort-delete = 結束並刪除片段
+listen-instruction = { $actionType }<playIcon></playIcon>，聽聽他們有準確地說出句子嗎？
+listen-again-instruction = 幹得好！<playIcon></playIcon>準備好就可以再聽一次
+listen-3rd-time-instruction = 完成兩筆了<playIcon></playIcon>，繼續保持！
+listen-last-time-instruction = <playIcon></playIcon>最後一筆了！
+listen-empty-state = 我們已經沒有這種語言的片段可以驗證了…
+speak-empty-state = 我們已經沒有這種語言的文字可以錄音了…
+speak-empty-state-cta = 貢獻語句
+record-button-label = 錄下您的聲音
+share-title-new = <bold>請幫助我們</bold>找到更多聲音
+keep-track-profile = 註冊帳號來追蹤個人貢獻進度
+login-to-get-started = 請登入或註冊，即可開始使用
+target-segment-first-card = 您正在朝我們的第一組目標段落數貢獻錄音
+target-segment-generic-card = 您正在朝目標段落數貢獻錄音
+target-segment-first-banner = 幫助 Common Voice 設定 { $locale } 的第一組目標段落數
+target-segment-add-voice = 加入您的聲音
+target-segment-learn-more = 了解更多
 
 ## Reporting
 
+report = 回報
+report-title = 回報問題
+report-ask = 這句話有什麼問題？
+report-offensive-language = 冒犯人的語言
+report-offensive-language-detail = 這句話當中有不尊重他人或冒犯性的語言。
+report-grammar-or-spelling = 文法 / 拼字錯誤
+report-grammar-or-spelling-detail = 這句話的文法或拼法有誤。
+report-different-language = 其他語言
+report-different-language-detail = 這句話是其他語言的句子。
+report-difficult-pronounce = 難以發音
+report-difficult-pronounce-detail = 這句話當中有難以發音的文字或詞彙。
+report-offensive-speech = 冒犯人的錄音片段
+report-offensive-speech-detail = 這個片段中有不尊重他人或冒犯性的語言。
+report-other-comment =
+    .placeholder = 附註
+success = 成功
+continue = 繼續
+report-success = 成功送出回報內容
 
 ## Goals
 
+streaks = 連續第
+days =
+    { $count ->
+       *[other] 天
+    }
+recordings =
+    { $count ->
+       *[other] 錄音
+    }
+validations =
+    { $count ->
+       *[other] 驗證
+    }
 
 ## Dashboard
 
+your-languages = 您的語言
+toward-next-goal = 距離下一個目標
+goal-reached = 達成目標
+clips-you-recorded = 您已錄音的片段
+clips-you-validated = 您已驗證的片段
+todays-recorded-progress = 本日 Common Voice 錄音片段進度
+todays-validated-progress = 本日 Common Voice 驗證片段進度
+stats = 統計
+awards = 成就
+you = 您自己
+everyone = 所有人
+contribution-activity = 貢獻紀錄
+top-contributors = 頂尖貢獻者
+recorded-clips = 錄製的片段
+validated-clips = 驗證的片段
+total-approved = 總批准數
+overall-accuracy = 總體準確度
+set-visibility = 設定是否於排行榜顯示我的帳號
+visibility-explainer = 此選項可用來設定是否要在排行榜上顯示您的資料。設為「隱藏」時，將不會顯示在排行榜上顯示您的照片、使用者名稱、貢獻進度。請注意調整設定後，需等 { $minutes } 分鐘，重新整理排行榜後才會生效。
+visibility-overlay-note = 設定為「可見」時，可於<profileLink>個人資料頁面</profileLink>調整此選項
+show-ranking = 顯示我的排名
 
 ## Custom Goals
 
+get-started-goals = 設定目標開始貢獻
+create-custom-goal = 自訂目標
+goal-type = 您想要達到怎樣的目標？
+both-speak-and-listen = 兩者
+both-speak-and-listen-long = 兩者（說與聽）
+daily-goal = 每日目標
+weekly-goal = 每週目標
+easy-difficulty = 簡單
+average-difficulty = 一般
+difficult-difficulty = 困難
+pro-difficulty = 專業
+lose-goal-progress-warning = 編輯目標後，可能會失去現有進度。
+want-to-continue = 你想要繼續嗎？
+finish-editing = 要先完成編輯嗎？
+lose-changes-warning = 現在離開將不會儲存變更
+build-custom-goal = 自訂目標
+help-reach-hours-pluralized =
+    幫助{ $language }達到{ NUMBER($hours) ->
+       *[other] { $hours } 小時
+    }的個人目標
+help-reach-hours-general-pluralized =
+    幫助 Common Voice 的任一種語言達到{ NUMBER($hours) ->
+       *[other] { $hours } 小時
+    }的個人目標
+set-a-goal = 設定目標
+cant-decide = 無法決定嗎？
+activity-needed-calculation-plural =
+    若有 { NUMBER($people) ->
+       *[other] { $people } 個人
+    }每天錄下 { NUMBER($clipsPerDay) ->
+       *[other] { $clipsPerDay } 個片段
+    }，就可以在 { NUMBER($periodMonths) ->
+       *[other] { $periodMonths } 個月
+    }內達成 { NUMBER($totalHours) ->
+       *[other] { $totalHours } 小時
+    }錄音片段的目標。
+how-many-per-day = 好的，每天要貢獻幾個片段？
+how-many-a-week = 好的，每週要貢獻幾個片段？
+which-goal-type = 想要錄音、聆聽確認，還是兩者都要？
+receiving-emails-info = 您已經設定要訂閱目標提醒、我的進度更新、Common Voice 相關最新消息的電子報。
+not-receiving-emails-info = 您目前設定<bold>不要</bold>收到諸如目標提醒、我的進度更新與 Common Voice 的相關電子報。
+n-clips-pluralized =
+    { NUMBER($count) ->
+        [one] { $count } 個片段
+       *[other] { $count } 個片段
+    }
+help-share-goal = 分享您的目標，幫助我們找到更多人參與錄音
+confirm-goal = 確認目標
+goal-interval-weekly = 每週
+# $type is one of share-goal-type-*
+share-n-daily-contribution-goal = 分享您的每日 { $type } 目標: { $count } 片段
+# $type is one of share-goal-type-*
+share-n-weekly-contribution-goal = 分享您的每週 { $type } 目標: { $count } 片段
+share-goal-type-speak = 說話
+share-goal-type-listen = 聆聽
+share-goal-type-both = 說話與聆聽
+# LINK will be replaced with the current URL
+goal-share-text = 我剛建立好要獻聲給 #CommonVoice 的目標 -- 也來與我一起幫忙，讓機器可以學會真人說話的方式。{ $link }
+weekly-goal-created = 已建立您的每週目標
+daily-goal-created = 已建立您的每日目標
+track-progress = 您可以在此或到進度頁面，追蹤進度。
+return-to-edit-goal = 您可以隨時回到這裡編輯目標。
+share-goal = 分享我的目標
 
 ## Profile Delete
 
+delete-q = 您想要一同刪除語音，或是要將語音保留在 Common Voice 資料集中？
+keep = 保留
+remove = 移除
+keep-info = 您的錄音將匿名保留在 Common Voice 資料集。刪除個人資料後，就無法再要求從資料集刪除
+remove-info = 我們將審核您從資料集中刪除錄音的請求。如果您的請求獲得批准，我們將會聯絡已下載資料集的使用者，並請他們也刪除您的錄音。
+why-delete-recordings =
+    學術界、小企業與語音識別愛好者會使用 Common Voice 的錄音片段來幫助訓練、發展語音模型等公共資源。
+    
+    能讓我們知道您為什麼想要刪除錄音片段嗎？
+profile-form-delete = 刪除帳號
 
 ## Landing
 
+welcome-staff = 歡迎 { $company } 的員工！
+help-contribute = 您可以透過註冊 Common Voice 資料並貢獻語音，來協助打造一套多樣化、開放原始碼的資料集。
+login-company = 登入 / 使用 { $company } 註冊
+profile-not-required = 不需要註冊個人資料即可貢獻，但如果有的話會更有幫助
+read-more-about = 到我們的「關於」頁面了解更多資訊
 
 ## DemoLayout
 
+demo-get-started = 開始入門
+demo-welcome = 歡迎來到 Common Voice
+demo-welcome-subheader = 有興趣了解更多資訊，並且參與貢獻此專案嗎？
 
 ## Demo Datasets
 
+demo-language-select-card-header = Common Voice 是全球最大規模的可公開使用、多語言語音資料集。
+demo-language-select-card-body = 感謝來自全球超過 25 萬 9 千人貢獻了超過 50 種語言，此資料可用來訓練有語音功能的應用程式，使其更能理解人類的聲音。
+card-button-next = 下一步
+card-button-back = 上一步
+demo-language-select-label = 瀏覽語言
+demo-eofy-header = 2019 年末發佈版
+demo-eofy-sub_header = 語音資料集，已可下載
+demo-account = 帳號
 
 ## Demo Account
 
+demo-account-card-header = 不需要註冊帳號即可貢獻，但如果有的話會更有幫助。
+demo-account-card-body = 我們在右邊簡單列出了有哪些益處，並說明會公開哪些資訊。請使用下方的鏈結來在您的裝置上註冊 Common Voice 帳號，開始參與我們。
+demo-account-enter-email =
+    .label = 請輸入電子郵件地址來發送註冊鏈結
+demo-account-sign-up = 寄註冊鏈結給我
 
 ## Demo Contribute
 
+demo-contribute-card-header = 準備好來參與錄音，或是把耳朵借給我們一用嗎？
+demo-contribute-card-body-v2 = 現在您知道更多 Common Voice 的資訊了，不來試試看嗎？請點擊麥克風圖示來大聲朗讀句子。<br/><br/>若您想要來審核其他人錄下的片段，請點擊播放圖示，即可幫助大家確認錄音內容是否與畫面上的文字相符。
+demo-listen-subtitle = 準備好參與貢獻了嗎？
 
 ## Demo Dashboard
 
+demo-dashboard-card-header = 可讓您掌控個人與社群進度的個人儀錶板。
+demo-dashboard-card-body = 每當您錄下或驗證了一段語音，就會更新您的帳號儀錶板，來反映您在參與貢獻的各種語言當中的最新進度。沒錯，您可以參與不只一種語言！<br/><br/>您可以使用儀錶板來追蹤目前狀態、看看自己跟社群當中的其他人目前差距多少，並且設定每日或每週貢獻目標。
 
 ## Validation criteria
 
+contribution-criteria-nav = 準則
+contribution-criteria-link = 了解貢獻準則
+contribution-criteria-page-title = 貢獻準則
+contribution-criteria-page-description = 了解在聆聽語音片段時要注意什麼，並幫助您能錄下更多聲音！
+contribution-for-example = 舉例來說
+contribution-misreadings-title = 誤讀
+contribution-misreadings-description = 聆聽錄音時，仔細確認錄下的語音內容與畫面上顯示的文字完全相符，有任何一點錯誤就退回更正。<br />以下是常見的錯誤類型：
+contribution-volume-title = 音量大小
+see-more = <chevron></chevron>看更多
+see-less = <chevron></chevron>看更少
