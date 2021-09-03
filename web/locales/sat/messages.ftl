@@ -1,10 +1,16 @@
 ## General
 
+yes-receive-emails = ᱦᱚᱸ ᱤᱢᱮᱞ ᱵᱷᱮᱡᱟᱭᱟᱹᱧ ᱢᱮ ᱾ Common Voice ᱯᱨᱚᱡᱮᱠᱴ ᱵᱟᱵᱚᱛ ᱵᱟᱰᱟᱭ ᱡᱚᱝ ᱥᱮᱱᱟᱹᱧ ᱠᱟᱱᱟ ᱾
+stayintouch = ᱟᱞᱮ Mozilla ᱫᱚ ᱱᱚᱶᱟ ᱢᱤᱫᱴᱟᱹᱝ ᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱵᱷᱚᱭᱮᱥ ᱴᱮᱠᱱᱚᱞᱚᱡᱭ ᱪᱮᱛᱟᱱ ᱨᱮ ᱟᱹᱪᱩᱨ ᱠᱟᱛᱮ ᱞᱮ ᱛᱮᱭᱟᱨ ᱮᱜ ᱟ ᱞᱮ ᱾ ᱟᱞᱮ ᱟᱹᱯᱰᱮᱴ ᱥᱚᱢᱯᱚᱨᱠ ᱨᱮ ᱛᱟᱦᱮᱸ ᱥᱮᱱᱟ ᱞᱮ ᱠᱟᱱᱟ, ᱱᱟᱶᱟ ᱰᱟᱴᱟ ᱥᱨᱚᱛ ᱟᱨ ᱟᱨᱦᱚᱸ ᱡᱤᱱᱤᱥ ᱡᱟᱦᱟᱸ ᱨᱮ ᱟᱢ ᱵᱮᱵᱷᱟᱨ ᱮᱫ ᱰᱟᱴᱟ ᱵᱟᱵᱚᱛ ᱞᱮ ᱟᱧᱡᱚᱢ ᱥᱮᱱᱟ ᱞᱮ ᱠᱟᱱᱟ ᱾
+privacy-info = ᱟᱢᱟᱜ ᱡᱤᱱᱤᱥ ᱠᱚ ᱥᱟᱢᱲᱟᱣ ᱞᱮ ᱡᱚᱛᱚᱱ ᱞᱮ ᱤᱫᱤᱭᱟ ᱾ ᱟᱞᱮᱭᱟᱜ <privacyLink> ᱯᱨᱟᱭᱣᱮᱥᱭ ᱱᱚᱴᱤᱥ </privacyLink> ᱨᱮ ᱟᱨᱦᱚᱸ ᱯᱟᱲᱦᱟᱣ ᱢᱮ ᱾
 return-to-cv = Common Voice ᱛᱮ ᱨᱩᱣᱟᱹᱲ ᱢᱮ
 email-input =
     .label = ᱤᱢᱮᱞ
 submit-form-action = ᱡᱚᱢᱟᱭ ᱢᱮ
-loading = ᱞᱟᱫᱮᱜᱼᱟ…
+loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ…
+email-opt-in-info = ᱤᱧ ᱜᱚᱞ ᱨᱤᱢᱟᱭᱮᱱᱰᱚᱨ  ᱵᱚᱵᱚᱛ ᱤᱢᱮᱞ ᱤᱧ ᱧᱟᱢ ᱥᱮᱱᱟᱹᱧ ᱠᱟᱱᱟ, Common Voice ᱵᱟᱵᱚᱛ ᱦᱟᱹᱞᱤᱭᱟᱠ ᱟᱨ ᱠᱷᱚᱵᱚᱨᱪᱤᱴᱷᱤ ᱨᱮᱭᱟᱜ ᱞᱟᱦᱟ ᱛᱮᱫ ᱾
+email-opt-in-info-title = Common Voice ᱢᱮᱞᱤᱝ ᱥᱩᱪᱤ ᱥᱟᱶ ᱡᱩᱲᱟᱣᱜ ᱢᱮ
+email-opt-in-info-sub-with-challenge = ᱜᱚᱞ ᱨᱤᱢᱟᱭᱮᱱᱰᱚᱨ ᱟᱨ ᱪᱮᱡᱮᱧᱡᱽ ᱵᱚᱵᱚᱛ ᱤᱢᱮᱞ ᱧᱟᱢ ᱢᱮ, Common Voice ᱵᱟᱵᱚᱛ ᱦᱟᱹᱞᱤᱭᱟᱠ ᱟᱨ ᱠᱷᱚᱵᱚᱨᱪᱤᱴᱷᱤ ᱨᱮᱭᱟᱜ ᱞᱟᱦᱟ ᱛᱮᱫ ᱾
 indicates-required = * ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱ ᱡᱟᱭᱜᱟ ᱠᱟᱱᱟ
 not-available-abbreviation = N/A
 
