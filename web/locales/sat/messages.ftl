@@ -183,10 +183,19 @@ privacy = ᱱᱤᱥᱚᱱ
 terms = ᱥᱚᱨᱛᱚᱠᱚ
 cookies = ᱠᱩᱠᱤᱡᱽ ᱠᱚ
 faq = FAQ
+content-license-text = ᱡᱤᱱᱤᱥ ᱫᱚ <licenseLink>Creative Commons license</licenseLink>ᱨᱮ ᱧᱟᱢᱚᱜᱼᱟ
+share-title = ᱮᱴᱟᱜ ᱦᱚᱲ ᱟᱠᱚᱣᱟᱜ ᱥᱟᱲᱮ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱟᱞᱮ ᱜᱚᱲᱚ ᱞᱮᱢ ᱾
+share-text = ᱢᱮᱥᱚᱱ ᱠᱚ ᱪᱮᱫᱟᱠᱚᱯᱮ ᱪᱮᱞᱠᱟ ᱥᱟᱹᱨᱤ ᱦᱚᱲ ᱠᱚ ᱨᱚᱲᱟ, { $link } ᱨᱮ ᱟᱢᱟᱜ ᱥᱟᱲᱮ ᱫᱟᱱ ᱢᱮ
 link-copied = ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱦᱩᱭᱮᱱᱟ
+back-top = ᱪᱮᱛᱟᱱ ᱥᱮᱫ ᱨᱩᱟᱹᱲ
+logout = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
 
 ## Home Page
 
+home-title = Common Voice ᱫᱚ Mozilla ᱠᱚᱣᱟᱜ ᱯᱚᱦᱚᱞ ᱠᱟᱱᱟ ᱪᱮᱞᱠᱟᱛᱮ ᱢᱮᱥᱤᱱ ᱥᱟᱹᱨᱤ ᱦᱚᱲ ᱞᱮᱠᱷᱟ ᱠᱚ ᱪᱮᱫᱟ ᱠᱚᱣᱟ ᱾
+default-tagline = Common Voice ᱫᱚ Mozilla ᱠᱚᱣᱟᱜ ᱯᱚᱦᱚᱞ ᱠᱟᱱᱟ ᱪᱮᱞᱠᱟᱛᱮ ᱢᱮᱥᱤᱱ ᱥᱟᱹᱨᱤ ᱦᱚᱲ ᱞᱮᱠᱷᱟ ᱨᱚᱲ ᱠᱚ ᱪᱮᱫᱟ ᱠᱚᱣᱟ ᱾
+home-cta = ᱨᱚᱲ ᱢᱮ, ᱱᱚᱰᱮ ᱮᱱᱮᱢ ᱢᱮ!
+wall-of-text-start = ᱥᱟᱲᱮ ᱫᱚ ᱟᱹᱨᱤ ᱞᱮᱠᱷᱟ, ᱦᱚᱲᱟᱜ ᱥᱟᱲᱮ ᱾ ᱚᱱᱟ ᱜᱮ ᱟᱞᱮᱭᱟᱜ ᱢᱮᱥᱤᱱ ᱞᱟᱹᱜᱤᱫ ᱠᱟᱹᱢᱤ ᱨᱮ ᱦᱮᱡ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱ ᱥᱮᱲᱮ ᱴᱮᱠᱱᱚᱞᱚᱡᱭ ᱞᱟᱹᱜᱤᱫ ᱩᱱᱟᱹᱜ ᱞᱮ ᱡᱩᱞᱩᱢ ᱟ ᱾ ᱢᱮᱱ ᱠᱷᱟᱱ ᱥᱟᱰᱮ ᱥᱭᱥᱴᱚᱢ ᱛᱮᱭᱟᱨ ᱞᱟᱹᱜᱤᱫ, ᱟᱭᱢᱟ ᱥᱟᱰᱮ ᱰᱟᱴᱟ ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ ᱾
 show-wall-of-text = ᱟᱨᱦᱚᱸ ᱯᱟᱲᱦᱟᱣ ᱢᱮ
 vote-yes = ᱦᱮᱸ
 vote-no = ᱵᱟᱝ
