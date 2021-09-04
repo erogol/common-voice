@@ -368,14 +368,14 @@ error-code = ᱵᱷᱩᱞ { $code }
 
 ## Data
 
-data-download-button = ᱥᱚᱢᱟᱱ ᱟᱲᱟᱝ ᱰᱟᱴᱟ ᱰᱟᱩᱱᱞᱳᱰ ᱯᱮ
+data-download-button = ᱥᱚᱢᱟᱱ ᱟᱲᱟᱝ ᱰᱟᱴᱟ ᱰᱟᱩᱱᱞᱚᱰ ᱯᱮ
 data-download-yes = ᱦᱮᱸ
 data-download-deny = ᱵᱟᱝ
 data-download-license = ᱞᱟᱭᱥᱮᱱᱥ: <licenseLink>CC-0</licenseLink>
 data-other-title = ᱮᱴᱟᱜᱟ ᱟᱲᱟᱝ ᱰᱟᱴᱟᱥᱮᱴ ᱠᱚ...
 data-other-goto = { $name } ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
-data-other-download = ᱰᱟᱴᱟ ᱰᱟᱩᱱᱞᱳᱰ
-data-bundle-button = ᱰᱟᱴᱟᱥᱮᱴ ᱜᱷᱮᱸᱴ ᱰᱟᱩᱱᱞᱳᱰ
+data-other-download = ᱰᱟᱴᱟ ᱰᱟᱩᱱᱞᱚᱰ
+data-bundle-button = ᱰᱟᱴᱟᱥᱮᱴ ᱜᱷᱮᱸᱴ ᱰᱟᱩᱱᱞᱚᱰ
 release-version = ᱵᱷᱟᱹᱨᱥᱚᱱ
 dataset-date = ᱢᱟᱹᱦᱤᱛ
 license = ᱞᱟᱭᱥᱮᱱᱥ: <licenseLink>{ $license }</licenseLink>
@@ -395,16 +395,16 @@ splits = ᱵᱷᱟᱜᱽ
 email-to-download = ᱰᱟᱩᱱᱞᱚᱰ ᱞᱟᱹᱜᱤᱫ ᱤᱢᱮᱞ ᱟᱫᱮᱨ ᱢᱮ
 size-gigabyte = GB
 size-megabyte = MB
-download-language = ᱰᱟᱩᱱᱞᱳᱰ { $language }
+download-language = ᱰᱟᱩᱱᱞᱚᱰ { $language }
 subscribe = ᱥᱟᱹᱵᱥᱠᱨᱟᱭᱤᱵ
 more = ᱰᱷᱮᱨ
 close = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-download = ᱰᱟᱩᱱᱞᱳᱰ
+download = ᱰᱟᱩᱱᱞᱚᱰ
 dataset-version = ᱵᱷᱟᱹᱨᱥᱚᱱ
 
 ## Download Modal
 
-download-title = ᱟᱢᱟᱜ ᱰᱟᱩᱱᱞᱳᱰ ᱮᱦᱚᱵᱮᱱᱟ ᱾
+download-title = ᱟᱢᱟᱜ ᱰᱟᱩᱱᱞᱚᱰ ᱮᱦᱚᱵᱮᱱᱟ ᱾
 download-form-email =
     .label = ᱟᱢᱟᱜ ᱤᱢᱮᱞ ᱟᱫᱮᱨ ᱛᱟᱢ
     .value = ᱥᱟᱦᱨᱟᱣ ᱜᱮ, ᱟᱞᱮ ᱡᱩᱲᱟᱹᱣ ᱛᱟᱦᱮᱱ ᱟᱞᱮ ᱾
