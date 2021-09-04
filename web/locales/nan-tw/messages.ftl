@@ -1,6 +1,6 @@
 ## General
 
-yes-receive-emails = 好，寄信給我。我想要知道 Common Voice 專案的各種資訊。
+yes-receive-emails = 好，請寄批予我。我想欲知影 Common Voice 專案的資訊。
 stayintouch = Mozilla 的我們，正在打造一個與語音技術相關的社群。我們想要與新技術、新的資料來源保持聯繫，也想知道您會如何使用這些資料。
 privacy-info = 我們保證會小心處理您的資訊。可於我們的<privacyLink>隱私權公告</privacyLink>了解更多資訊。
 return-to-cv = 回到 Common Voice
