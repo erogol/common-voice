@@ -2,10 +2,10 @@
 
 yes-receive-emails = 好，請寄批予我。我想欲知影 Common Voice 專案的資訊。
 stayintouch = 阮 Mozilla 的共伴當咧起造一个佮語音技術相干的社群。阮想欲隨時綴著新的技術、新的資料來源，嘛想欲知影你會按怎來使用遮的資料。
-privacy-info = 我們保證會小心處理您的資訊。可於我們的<privacyLink>隱私權公告</privacyLink>了解更多資訊。
+privacy-info = 阮保證阮會細膩處理你的資料。另外，請參看阮的<privacyLink>隱私權公告</privacyLink>。
 return-to-cv = 轉去 Common Voice
 email-input =
-    .label = 電子郵件地址
+    .label = 電子批住址
 submit-form-action = 送出
 loading = 載入中…
 email-opt-in-info = 我希望收到諸如目標提醒、我的進度更新與 Common Voice 的相關電子報。
