@@ -380,18 +380,27 @@ release-version = ᱵᱷᱟᱹᱨᱥᱚᱱ
 dataset-date = ᱢᱟᱹᱦᱤᱛ
 license = ᱞᱟᱭᱥᱮᱱᱥ: <licenseLink>{ $license }</licenseLink>
 license-mixed = ᱢᱮᱥᱟ
+terms-agree = ᱤᱧᱤᱧ ᱥᱤᱠᱟᱹᱨ ᱜᱮᱭᱟ
+terms-disagree = ᱤᱧ ᱵᱟᱧ ᱥᱤᱠᱟᱹᱨ ᱜᱮᱭᱟ
 review-recording = ᱧᱮᱞ ᱫᱚᱦᱲᱟ
+review-rerecord = ᱫᱩᱦᱲᱟᱹ ᱨᱮᱠᱚᱰ
 
 ## Datasets Page
 
 language = ᱯᱟᱹᱨᱥᱤ
+# File size in gigabytes
+size = ᱢᱟᱯ
+cv-license = ᱞᱟᱭᱥᱮᱱᱥ
+splits = ᱵᱷᱟᱜᱽ
 email-to-download = ᱰᱟᱩᱱᱞᱚᱰ ᱞᱟᱹᱜᱤᱫ ᱤᱢᱮᱞ ᱟᱫᱮᱨ ᱢᱮ
 size-gigabyte = GB
 size-megabyte = MB
 download-language = ᱰᱟᱩᱱᱞᱳᱰ { $language }
+subscribe = ᱥᱟᱹᱵᱥᱠᱨᱟᱭᱤᱵ
 more = ᱰᱷᱮᱨ
 close = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 download = ᱰᱟᱩᱱᱞᱳᱰ
+dataset-version = ᱵᱷᱟᱹᱨᱥᱚᱱ
 
 ## Download Modal
 
@@ -399,6 +408,7 @@ download-title = ᱟᱢᱟᱜ ᱰᱟᱩᱱᱞᱳᱰ ᱮᱦᱚᱵᱮᱱᱟ ᱾
 download-form-email =
     .label = ᱟᱢᱟᱜ ᱤᱢᱮᱞ ᱟᱫᱮᱨ ᱛᱟᱢ
     .value = ᱥᱟᱦᱨᱟᱣ ᱜᱮ, ᱟᱞᱮ ᱡᱩᱲᱟᱹᱣ ᱛᱟᱦᱮᱱ ᱟᱞᱮ ᱾
+download-no = ᱡᱟᱦᱱᱟᱜ ᱥᱟᱨᱦᱟᱣ ᱵᱟᱝᱟ
 
 ## Contact Modal
 
@@ -419,6 +429,7 @@ other-language = ᱮᱴᱟᱜᱟ ᱯᱟᱹᱨᱥᱤ
 
 languages-show-more = ᱰᱷᱮᱨ ᱧᱮᱞ
 languages-show-less = ᱠᱚᱢ ᱧᱮᱞ ᱢᱮ
+language-meter-in-progress = ᱞᱟᱦᱟ
 language-total-progress = ᱢᱳᱴ
 language-search-input =
     .placeholder = ᱥᱮᱸᱫᱽᱨᱟ
@@ -427,6 +438,7 @@ sentences = ᱟᱭᱟᱛᱠᱚ
 ## Contribution
 
 action-click = ᱚᱛᱟᱭ ᱢᱮ
+action-tap = ᱴᱤᱯᱟᱹᱣ
 contribute = ᱮᱱᱮᱢ ᱢᱮ
 listen = ᱟᱧᱡᱚᱢ ᱢᱮ
 share-common-voice = ᱥᱚᱢᱟᱱ ᱟᱲᱟᱝ ᱦᱟᱹᱴᱤᱧ ᱢᱮ
