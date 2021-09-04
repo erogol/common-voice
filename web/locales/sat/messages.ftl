@@ -233,6 +233,8 @@ x-years-short =
         [two] { $count } ᱥᱮ
        *[other] { $count } ᱥᱮ
     }
+sign-up-account = ᱠᱷᱟᱛᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱩᱢᱤ ᱮᱢ ᱛᱟᱢ
+email-subscription-title = ᱤᱢᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 
 ## Account Benefits
 
@@ -243,17 +245,42 @@ benefits = ᱞᱟᱵᱷ ᱠᱚ
 
 ## Speak & Listen Shortcuts
 
+# Must be one letter that appears in the translated { skip } string.
+shortcut-skip = s
 
 ## Listen Shortcuts
 
+# Must be one letter that appears in the translated play-string inside of { shortcut-play-toggle-label }.
+# Must be different from { shortcut-skip }, { shortcut-vote-yes } and { shortcut-vote-no }
+shortcut-play-toggle = p
+shortcut-play-toggle-label = ᱪᱟᱹᱞᱩ/ᱵᱚᱸᱫ
+# Must be one letter that appears in the { vote-yes } string.
+# Must be different from { shortcut-skip }, { shortcut-vote-no } and { shortcut-play-toggle }
+shortcut-vote-yes = y
+# Must be one letter that appears in the { vote-no } string.
+# Must be different from { shortcut-skip }, { shortcut-vote-yes } and { shortcut-play-toggle }
+shortcut-vote-no = n
 
 ## Speak Shortcuts
 
+# Must be one letter that appears in the translated record-string inside of { shortcut-record-toggle-label }.
+# Must be different from { shortcut-skip }, { shortcut-vote-yes } and { shortcut-vote-no }
+shortcut-record-toggle = r
+shortcut-record-toggle-label = ᱨᱮᱠᱚᱰ/ᱛᱷᱚᱢ
+shortcut-rerecord-toggle = [1-5]
+shortcut-rerecord-toggle-label = ᱠᱞᱤᱯ ᱫᱩᱦᱲᱟᱹ ᱨᱮᱠᱚᱰ ᱢᱮ
+shortcut-discard-ongoing-recording = ESC
+shortcut-submit = ᱨᱩᱟᱹᱲ
+shortcut-submit-label = ᱥᱠᱤᱯ ᱡᱚᱢᱟᱭ ᱢᱮ
 request-language-button = ᱯᱟᱹᱨᱥᱤ ᱱᱮᱦᱚᱨ ᱢᱮ
 
 ## ProjectStatus
 
 status-contribute = ᱟᱢᱟᱜ ᱟᱲᱟᱝ ᱮᱱᱮᱢ ᱢᱮ
+# Variables:
+# $goal - number of hours representing the next goal
+status-goal = ᱞᱟᱦᱟ ᱜᱚᱞ ᱠᱚᱺ { $goal }
+english = ᱤᱝᱨᱟᱡᱤ
 
 ## ProfileForm
 
@@ -261,10 +288,16 @@ profile-form-username =
     .label = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ
 profile-form-native-language =
     .label = ᱡᱟᱱᱟᱢ ᱯᱟᱹᱨᱥᱤ
+profile-form-additional-language =
+    .label = ᱵᱟᱹᱲᱛᱤᱭᱟᱜ ᱯᱟᱹᱨᱥᱤ
+profile-form-accent =
+    .label = ᱮᱥᱮᱸᱱᱴ
 profile-form-age =
     .label = ᱩᱢᱮᱨ
 profile-form-gender-2 =
     .label = ᱡᱟᱱᱟᱝ
+hidden = ᱩᱠᱩ
+visible = ᱧᱮᱞᱚᱜ
 native-language =
     .label = ᱡᱟᱱᱟᱢ ᱯᱟᱹᱨᱥᱤ
 profile-form-submit-save = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
@@ -274,11 +307,14 @@ female = ᱠᱩᱲᱤ
 # Gender
 other = ᱮᱴᱟᱜᱽ-ᱟᱜ
 why-profile-title = ᱢᱤᱫᱴᱟᱝ ᱢᱚᱦᱲᱟ ᱫᱚ ᱪᱮᱫᱟᱜ ᱵᱮᱱᱟᱣᱟ?
+dashboard = ᱰᱮᱥᱵᱚᱰ
 build-profile = ᱢᱚᱦᱲᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
 avatar = ᱟᱣᱛᱟᱨ
+goals = ᱜᱚᱞ
 settings = ᱥᱟᱡᱟᱣ ᱠᱚ
 edit-profile = ᱢᱚᱦᱲᱟ ᱥᱟᱯᱲᱟᱣ  ᱢᱮ
 profile-close = ᱵᱚᱸᱫᱽ
+why-demographic = ᱪᱮᱫ ᱪᱤᱠᱟᱹ ᱮᱱᱟ?
 accept-privacy-title = ᱫᱟᱱᱟᱝ ᱨᱤᱛᱤ
 login-signup = ᱵᱚᱞᱚᱱ / ᱥᱩᱦᱤ
 edit = ᱥᱟᱯᱲᱟᱣ
@@ -323,6 +359,7 @@ about-nav-get-involved = ᱥᱟᱹᱢᱤᱞᱚᱜ ᱯᱮ
 ## Glossary
 
 glossary = ᱥᱟᱵᱟᱫᱽ ᱜᱟᱫᱮᱞ
+localization = ᱞᱚᱠᱟᱞᱟᱭᱡᱮᱥᱚᱱ
 sentence-collection = ᱟᱹᱭᱟᱹᱛ ᱛᱩᱢᱟᱹᱞ
 
 ## Error pages
@@ -334,11 +371,14 @@ error-code = ᱵᱷᱩᱞ { $code }
 data-download-button = ᱥᱚᱢᱟᱱ ᱟᱲᱟᱝ ᱰᱟᱴᱟ ᱰᱟᱩᱱᱞᱳᱰ ᱯᱮ
 data-download-yes = ᱦᱮᱸ
 data-download-deny = ᱵᱟᱝ
+data-download-license = ᱞᱟᱭᱥᱮᱱᱥ: <licenseLink>CC-0</licenseLink>
 data-other-title = ᱮᱴᱟᱜᱟ ᱟᱲᱟᱝ ᱰᱟᱴᱟᱥᱮᱴ ᱠᱚ...
 data-other-goto = { $name } ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
 data-other-download = ᱰᱟᱴᱟ ᱰᱟᱩᱱᱞᱳᱰ
 data-bundle-button = ᱰᱟᱴᱟᱥᱮᱴ ᱜᱷᱮᱸᱴ ᱰᱟᱩᱱᱞᱳᱰ
+release-version = ᱵᱷᱟᱹᱨᱥᱚᱱ
 dataset-date = ᱢᱟᱹᱦᱤᱛ
+license = ᱞᱟᱭᱥᱮᱱᱥ: <licenseLink>{ $license }</licenseLink>
 license-mixed = ᱢᱮᱥᱟ
 review-recording = ᱧᱮᱞ ᱫᱚᱦᱲᱟ
 
