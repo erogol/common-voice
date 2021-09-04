@@ -1,9 +1,9 @@
 ## General
 
 yes-receive-emails = 好，請寄批予我。我想欲知影 Common Voice 專案的資訊。
-stayintouch = 咱 Mozilla 的共伴當咧uf3造一個與語音技術相關的社群。我們想要與新技術、新的資料來源保持聯繫，也想知道您會如何使用這些資料。
+stayintouch = 阮 Mozilla 的共伴當咧起造一个佮語音技術相干的社群。阮想欲隨時綴著新的技術、新的資料來源，嘛想欲知影你會按怎來使用遮的資料。
 privacy-info = 我們保證會小心處理您的資訊。可於我們的<privacyLink>隱私權公告</privacyLink>了解更多資訊。
-return-to-cv = 回到 Common Voice
+return-to-cv = 轉去 Common Voice
 email-input =
     .label = 電子郵件地址
 submit-form-action = 送出
@@ -90,7 +90,7 @@ kbd = 卡巴達語
 kk = 哈薩克語
 kmr = 庫曼吉庫德語
 ko = 韓語
-kpv = 科米-齊良語
+kpv = 茲梁科米語
 kw = 康瓦爾語
 ky = 吉爾吉斯語
 lg = 盧干達語
@@ -127,7 +127,7 @@ pt = 葡萄牙語
 rm-sursilv = 羅曼蘇塞瓦語
 rm-vallader = 羅曼什瓦拉德語
 ro = 羅馬尼亞語
-ru = 俄語
+ru = 露西亞語
 rw = 盧安達語
 sah = 薩哈語
 sat = Santali（Ol Chiki 字）
@@ -164,7 +164,7 @@ yo = 約魯巴語 (奈及利亞)
 yue = 粵語
 zh-CN = 華語（中國）
 zh-HK = 廣東話（香港）
-zh-TW = 華語（台灣）
+zh-TW = 華語（臺灣）
 
 # [/]
 
