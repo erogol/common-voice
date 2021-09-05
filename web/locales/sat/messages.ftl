@@ -247,8 +247,10 @@ x-years-short =
         [two] { $count } ᱥᱮ
        *[other] { $count } ᱥᱮ
     }
+help-make-dataset = ᱦᱟᱭ ᱠᱣᱟᱞᱤᱴᱭ, ᱯᱟᱹᱵᱞᱤᱠ ᱠᱷᱩᱞᱟᱹ ᱰᱟᱴᱟᱥᱮᱴ ᱛᱮᱭᱟᱨ ᱨᱮ ᱜᱚᱲᱚ ᱮᱢᱟ ᱞᱮᱢ
 sign-up-account = ᱠᱷᱟᱛᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱩᱢᱤ ᱮᱢ ᱛᱟᱢ
 email-subscription-title = ᱤᱢᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
+email-subscription-title-new = Common Voice ᱱᱤᱭᱩᱡᱞᱮᱴᱚᱨ, ᱜᱚᱞ ᱨᱤᱢᱟᱭᱮᱱᱰᱚᱨᱥ ᱟᱨ ᱞᱟᱦᱟ ᱦᱟᱹᱞᱤ ᱞᱟᱹᱜᱤᱫ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 
 ## Account Benefits
 
@@ -338,6 +340,7 @@ on = ᱪᱟᱹᱞᱩ
 
 ## Profile - Email
 
+max-file-size = ᱡᱟᱹᱥᱛᱤ { $kb }kb
 
 ## Profile - Email
 
@@ -369,6 +372,7 @@ about-nav-why-common-voice = ᱪᱮᱫᱟᱜ?
 about-nav-how-it-works = ᱪᱮᱠᱟᱛᱮ ?
 about-nav-partners = ᱵᱷᱟᱹᱜᱤᱭᱟᱹᱨᱤᱠᱚ
 about-nav-get-involved = ᱥᱟᱹᱢᱤᱞᱚᱜ ᱯᱮ
+mycroft-title = Mycroft Ai
 
 ## Glossary
 
@@ -396,8 +400,13 @@ license = ᱞᱟᱭᱥᱮᱱᱥ: <licenseLink>{ $license }</licenseLink>
 license-mixed = ᱢᱮᱥᱟ
 terms-agree = ᱤᱧᱤᱧ ᱥᱤᱠᱟᱹᱨ ᱜᱮᱭᱟ
 terms-disagree = ᱤᱧ ᱵᱟᱧ ᱥᱤᱠᱟᱹᱨ ᱜᱮᱭᱟ
+review-submit-title = ᱧᱮᱞ ᱫᱚᱦᱲᱟ ᱟᱨ ᱡᱚᱢᱟ
+review-submit-msg = ᱨᱮᱠᱚᱰᱤᱝ ᱞᱟᱹᱜᱤᱫ ᱟᱭᱢᱟ ᱥᱟᱨᱦᱟᱣ!<lineBreak></lineBreak>ᱱᱤᱛᱚᱜ ᱧᱮᱞ ᱫᱚᱦᱲᱟ ᱟᱨ ᱟᱢᱟᱜ ᱠᱞᱤᱯ ᱞᱟᱛᱟᱨ ᱨᱮ ᱡᱚᱢᱟᱭ ᱢᱮ ᱾
 review-recording = ᱧᱮᱞ ᱫᱚᱦᱲᱟ
 review-rerecord = ᱫᱩᱦᱲᱟᱹ ᱨᱮᱠᱚᱰ
+review-cancel = ᱡᱚᱢᱟ ᱠᱚ ᱨᱚᱫ ᱢᱮ
+review-keep-recordings = ᱨᱮᱠᱚᱰᱤᱝ ᱠᱚ ᱫᱚᱦᱚᱭ ᱢᱮ
+review-delete-recordings = ᱤᱧᱟᱜ ᱨᱮᱠᱚᱰᱤᱝ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
 
 ## Datasets Page
 
@@ -426,6 +435,7 @@ download-no = ᱡᱟᱦᱱᱟᱜ ᱥᱟᱨᱦᱟᱣ ᱵᱟᱝᱟ
 
 ## Contact Modal
 
+contact-title = ᱥᱚᱢᱯᱚᱨᱠ ᱯᱷᱚᱨᱢ
 contact-form-name =
     .label = ᱭᱩᱛᱩᱢ
 contact-form-message =
@@ -434,6 +444,7 @@ contact-required = *ᱞᱟᱹᱠᱛᱤ ᱜᱮᱭᱟ
 
 ## Request Language Modal
 
+request-language-title = ᱯᱟᱹᱨᱥᱤ ᱱᱮᱦᱚᱨ
 request-language-form-language =
     .label = ᱯᱟᱹᱨᱥᱤ
 select-language = ᱢᱤᱫᱴᱟᱝ ᱯᱟᱹᱨᱥᱤ ᱵᱟᱪᱷᱟᱣ ᱢᱮ...
@@ -441,6 +452,8 @@ other-language = ᱮᱴᱟᱜᱟ ᱯᱟᱹᱨᱥᱤ
 
 ## Languages Overview
 
+language-section-in-progress = ᱞᱟᱦᱟ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ
+language-section-launched = ᱩᱪᱷᱟᱹᱱ ᱮᱱᱟ
 languages-show-more = ᱰᱷᱮᱨ ᱧᱮᱞ
 languages-show-less = ᱠᱚᱢ ᱧᱮᱞ ᱢᱮ
 language-meter-in-progress = ᱞᱟᱦᱟ
@@ -455,7 +468,18 @@ action-click = ᱚᱛᱟᱭ ᱢᱮ
 action-tap = ᱴᱤᱯᱟᱹᱣ
 contribute = ᱮᱱᱮᱢ ᱢᱮ
 listen = ᱟᱧᱡᱚᱢ ᱢᱮ
+skip = ᱟᱲᱟᱜ
+shortcuts = ᱥᱚᱴᱠᱚᱴ
+clips-with-count-pluralized =
+    { $count ->
+        [one] <bold>{ $count }</bold> ᱠᱞᱤᱯ
+        [two] <bold>{ $count }</bold> ᱠᱞᱤᱯ ᱠᱤᱱ
+       *[other] <bold>{ $count }</bold> ᱠᱞᱤᱯ ᱠᱚ
+    }
+record-cta = ᱨᱮᱠᱚᱰᱤᱝ ᱮᱦᱚᱵ ᱢᱮ
 share-common-voice = ᱥᱚᱢᱟᱱ ᱟᱲᱟᱝ ᱦᱟᱹᱴᱤᱧ ᱢᱮ
+record-abort-continue = ᱨᱮᱠᱚᱰᱤᱝ ᱪᱟᱵᱟᱭ ᱢᱮ
+speak-empty-state-cta = ᱟᱹᱭᱟᱹᱛ ᱮᱱᱮᱢ ᱢᱮ
 target-segment-add-voice = ᱟᱢᱟᱜ ᱟᱲᱟᱝ ᱥᱮᱞᱮᱫ ᱛᱟᱢ
 target-segment-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
