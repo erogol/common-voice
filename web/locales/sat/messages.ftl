@@ -480,6 +480,8 @@ record-cta = ᱨᱮᱠᱚᱰᱤᱝ ᱮᱦᱚᱵ ᱢᱮ
 share-common-voice = ᱥᱚᱢᱟᱱ ᱟᱲᱟᱝ ᱦᱟᱹᱴᱤᱧ ᱢᱮ
 record-abort-continue = ᱨᱮᱠᱚᱰᱤᱝ ᱪᱟᱵᱟᱭ ᱢᱮ
 speak-empty-state-cta = ᱟᱹᱭᱟᱹᱛ ᱮᱱᱮᱢ ᱢᱮ
+record-button-label = ᱟᱢᱟᱜ ᱥᱟᱲᱮ ᱨᱮᱠᱚᱰ ᱢᱮ
+share-title-new = <bold>ᱜᱚᱲᱚ ᱮᱢᱟ ᱞᱮᱢ</bold> ᱟᱨᱦᱚᱸ ᱥᱟᱲᱮ ᱯᱟᱱᱛᱮ ᱢᱮ
 target-segment-add-voice = ᱟᱢᱟᱜ ᱟᱲᱟᱝ ᱥᱮᱞᱮᱫ ᱛᱟᱢ
 target-segment-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
@@ -487,9 +489,22 @@ target-segment-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 report = ᱨᱤᱯᱚᱴ
 report-title = ᱢᱤᱫ ᱴᱟᱝ ᱨᱤᱯᱚᱴ ᱡᱚᱢᱟᱭ ᱢᱮ
+continue = ᱞᱟᱦᱟ
 
 ## Goals
 
+days =
+    { $count ->
+        [one] ᱫᱤᱱ
+        [two] ᱫᱤᱱ
+       *[other] ᱫᱤᱱ
+    }
+recordings =
+    { $count ->
+        [one] ᱨᱮᱠᱚᱰᱤᱝ
+        [two] ᱨᱮᱠᱚᱰᱤᱝ ᱠᱤᱱ
+       *[other] ᱨᱮᱠᱚᱰᱤᱝ ᱠᱚ
+    }
 
 ## Dashboard
 
@@ -501,6 +516,15 @@ everyone = ᱡᱷᱚᱛᱚᱠᱚ
 
 both-speak-and-listen = ᱵᱟᱱᱟᱨᱜᱮ
 both-speak-and-listen-long = ᱵᱟᱱᱟᱨᱜᱮ (ᱨᱚᱲ ᱢᱮ ᱟᱨ ᱟᱡᱚᱢ ᱢᱮ)
+easy-difficulty = ᱟᱞᱜᱟ
+difficult-difficulty = ᱟᱸᱱᱴ
+pro-difficulty = ᱯᱨᱚ
+n-clips-pluralized =
+    { NUMBER($count) ->
+        [one] { $count } ᱠᱞᱤᱯ
+        [two] { $count } ᱠᱞᱤᱯ ᱠᱤᱱ
+       *[other] { $count } ᱠᱞᱤᱯ ᱠᱚ
+    }
 
 ## Profile Delete
 
@@ -517,6 +541,8 @@ read-more-about = ᱟᱞᱮᱭᱟ ᱵᱟᱵᱚᱛ ᱥᱟᱦᱴᱟ ᱨᱮ ᱟᱨ�
 
 ## Demo Datasets
 
+card-button-next = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱱ
+card-button-back = ᱯᱟᱹᱪᱞᱟᱹ
 demo-account = ᱠᱷᱟᱛᱟ
 
 ## Demo Account
