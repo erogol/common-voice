@@ -512,6 +512,7 @@ audio-format = Аудионь формат
 number-of-voices = Зяро вайгельтнеде
 splits = Явомат
 email-to-download = Совавтык ёнсёрма адресэт таргамга
+why-email = <b>Мезекс ёндолпочтась?</b> Сы шкасто, кие соды, лисить данной пурнавкссонок полавтовомат. Ёндолпочтась максы тенек мейсэ муемс лездыцятнень.
 confirm-size = Ней анокат таргамо даннойть, конатнень покшолмаст <b>{ $size }</b>
 size-gigabyte = ГБ
 size-megabyte = МБ
@@ -565,6 +566,7 @@ request-language-title = Келень вешема
 request-language-form-language =
     .label = Кель
 request-language-success-title = Келень вешемат совавтовсь, сюконятано.
+request-language-success-content = Курок пачтятано тенть седе ламо информация, косо ёвтави кода совавтомс эсеть келеть «Common Voice»-эс.
 select-language = Кочкамс кель...
 other-language = Лия кель
 
