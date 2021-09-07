@@ -601,6 +601,20 @@ report = Пеняцямс
 report-title = Кучомс пеняцямо
 report-ask = Кодат проблемат лисить лангс те валрисьмесэнть?
 report-offensive-language = Мельколыця кель
+report-offensive-language-detail = Те валрисьмесэнть мельсатуиця эли амазый кель
+report-grammar-or-spelling = Грамматикасо/сёрмадома лувсо ильведевкс
+report-grammar-or-spelling-detail = Валрисьмесэнть грамматикасо эли сёрмадома лувсо ильведевкс.
+report-different-language = Лия кель
+report-different-language-detail = Сёрмадозь лия кельсэ, аволь сеньсэ мезе кортан.
+report-difficult-pronounce = Стакасто ёвтави
+report-difficult-pronounce-detail = Эйсэнзэ валт эли валмолевкст, конатне стакасто ловновить эли ёвтавить.
+report-offensive-speech = Мельколыця кортамо
+report-offensive-speech-detail = Клипсэнть ломанькс а путомань эли мельколыця кель.
+report-other-comment =
+    .placeholder = Мельполадкс
+success = Тевесь лиссь
+continue = Поладомс
+report-success = Пеняцямось кучозь кода эряви
 
 ## Goals
 
@@ -625,11 +639,13 @@ validations =
 
 your-languages = Тонь кельтне
 toward-next-goal = Сыця норовамо ёнов
+goal-reached = Норовавксот-целеть топавтык
 clips-you-recorded = Эсеть сёрмадовт клипть
 clips-you-validated = Клипть, конат тонсь кемекстыть
 todays-recorded-progress = Течинь изнявкст «Common Voice»-нь клипень теемстэ
 todays-validated-progress = Течинь изнявкст «Common Voice»-нь клипень кемекстамсто
 stats = Статистика
+awards = Казнеть
 you = Тон
 everyone = Эрьвась
 contribution-activity = Лездамодо ламо
@@ -638,9 +654,42 @@ recorded-clips = Сёрмадозь клипть
 validated-clips = Кемекстазь клиптне
 total-approved = Зяро кемекстазь весемезэ
 overall-accuracy = Весемезэ, кода вадрясто теезь
+set-visibility = Путомс неявомаксчим
+show-ranking = Невтемс кодамо рангом
 
 ## Custom Goals
 
+get-started-goals = Ушодомс норовавксонь-целень путома
+create-custom-goal = Путомс эстеть норовавкс-цель
+goal-type = Кодамо норовавкс-цель эстеть путовлить?
+both-speak-and-listen = Кавонест
+both-speak-and-listen-long = Кавонест (Кортамс ды Кунсоломс)
+daily-goal = Эрьва чинь норовавкс-цель
+weekly-goal = Эрьва таргонь норовавкс-цель
+easy-difficulty = Шожда
+average-difficulty = Куншкавидень
+difficult-difficulty = Стака
+pro-difficulty = Профессионалонь
+want-to-continue = Теветь поладовлик?
+finish-editing = Прядомс васня витнематнень?
+lose-changes-warning = Нейке лисиндерят, весе полавтоматнень ёмавтсыть
+build-custom-goal = Путомс эстеть норовавкс-цель, конась эстеть лади
+set-a-goal = Путомс норовавкс-цель
+cant-decide = Кавтолдат?
+activity-needed-calculation-plural =
+    { NUMBER($totalHours) ->
+        [one] { $totalHours } час пурнави
+       *[other] { $totalHours } част пурнавить
+    } сеске{ NUMBER($periodMonths) ->
+        [one] { $periodMonths } ковдо
+       *[other] { $periodMonths } ковдо
+    }мейле{ NUMBER($people) ->
+        [one] { $people } ломань карминдеряй
+       *[other] { $people } ломанть карминдеряйть
+    }сёрмадомо{ NUMBER($clipsPerDay) ->
+        [one] { $clipsPerDay } клип
+       *[other] { $clipsPerDay } клипть
+    }чизэнзэ.
 
 ## Profile Delete
 
