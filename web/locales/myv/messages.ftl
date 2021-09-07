@@ -434,6 +434,11 @@ about-clip-graveyard-text = Клипень калмазырьсэнть вайг
 about-partners = Ялгат
 about-become-a-partner = Теевемс ялгакс
 about-get-involved = Кундамс вейсэнь тевс
+about-get-involved-text-2 =
+    Лездавлить вадрялгавтомс «Common Voice» проектэнть?¶
+    Пек паро! Кучт тенек ёндолсёрма эли совак <discourseLink>Discourse</discourseLink> ¶
+    вальмас, кучт сайтэнь проблемат <githubLink>GitHub</githubLink> issues-со, эли совак¶
+    минек <matrixLink>Matrix</matrixLink> куронь чатс.
 about-nav-why-common-voice = Мезекс ?
 about-nav-how-it-works = Кода ?
 about-nav-partners = Ялгат
@@ -443,6 +448,7 @@ mycroft-subtitle = Ломань теевкс валонь прев
 mycroft-description =
     Mycroft-ось масторлангонь васенце вайгелень лезды кедь, конась теезь весенень панжадо кодсо.
     Mycroft важоди косо понгсь — содымашинасо, машинасо эли Raspberry Pi-сэ.
+mycroft-secondary-description = Те весенень панжадо программонь обеспечения, сонзэ маштови ладсемс, полавтнемс, вадрякстомтомс зяро мелеть. Mycroft маштови нолдамс тевс наукань проектсэ, мик башка фирмань приложенияс.
 
 ## Glossary
 
