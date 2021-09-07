@@ -423,6 +423,11 @@ about-nav-why-common-voice = Мезекс ?
 about-nav-how-it-works = Кода ?
 about-nav-partners = Ялгат
 about-nav-get-involved = Кундамс вейсэнь тевс
+mycroft-title = Mycroft Ai
+mycroft-subtitle = Ломань теевкс валонь прев
+mycroft-description =
+    Mycroft-ось масторлангонь васенце вайгелень лезды кедь, конась теезь весенень панжадо кодсо.
+    Mycroft важоди косо понгсь — содымашинасо, машинасо эли Raspberry Pi-сэ.
 
 ## Glossary
 
