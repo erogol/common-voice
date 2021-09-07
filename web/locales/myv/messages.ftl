@@ -464,6 +464,7 @@ release-version = Версия
 dataset-date = Ие-ков-чи
 license = Лицензиясь: <licenseLink>{ $license }</licenseLink>
 license-mixed = Човор
+data-download-singleword-title = Таргинк норовавкс сегмент «Вейке вал»
 terms-agree = Ве мельс пран
 terms-disagree = Ве мельс а пран
 review-aborted = Материалонь тонгомась лоткавтозь. Ули мелеть нардамс эсеть лентас сёрмадовкстнэнь?
