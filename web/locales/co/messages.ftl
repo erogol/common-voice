@@ -502,6 +502,7 @@ splits = Staccature
 email-to-download = Scrivite u vostru indirizzu elettronicu pà scaricà
 why-email = <b>Perchè un indirizzu email ?</b> Un indirizzu email ci permette d'invià vi i cambiamenti eventuali à nant'à a banca di dati.
 confirm-size = Site à nant'à u puntu di cummincià u scaricamentu di <b>{ $size }</b>
+size-gigabyte = Go
 size-megabyte = Mo
 confirm-no-identify = <b>Voi accitteti</b> d’ùn pruvà micca à identificà è voce in a banca di dati Common Voice.
 download-language = Scaricà { $language }
@@ -513,6 +514,7 @@ subscribe = Abbunassi
 get-started-speech = Cummincià incù a ricunniscenza vucale
 other-datasets = Altre banche di voci
 feedback-q = Avete sugestione ?
+resource-nemo-info = <githubLink>NVIDIA NeMo</githubLink>™ hè un <docsLink>arnese cù e fonte aperte</docsLink> pà i circadori chì sviluppani mudeli d’Intelligenza Artifiziale cunversaziunale à l’avanguardia.
 data-other-ted-name = Corpus TED-LIUM
 data-other-ted-description = U corpus TED-LIUM hè statu fattu incù i discorsi è e so trascrizzione dispunibile à nant'à u situ TED.
 data-other-tatoeba-description = Tatoeba hè una banca maiò d'infrasate, traduzzione è ducumenti urali chì ghjovanu à l'imparera di e lingue. Issu scaricamentu cuntene ducumenti urali, in inglese, arrigistratu da a so cummunità.
@@ -770,6 +772,7 @@ demo-welcome-subheader = Site interessati pà amparà ne di più è cuntribuisce
 ## Demo Datasets
 
 demo-language-select-card-header = Common Voice hè a più maiò banca di dati vucale in parechje lingue, dispunibule publicamente di u mondu.
+demo-language-select-card-body = Grazie à e cuntribuzione di più di 259 mile persone in più di 50 lingue, sti dati sò utilizati pà l’addestramentu d’appiecazioni cù a ricunniscenza vucale pà migliurà a so risposta à a voce umana.
 card-button-next = Seguita
 card-button-back = Nanzu
 demo-language-select-label = Splurà e lingue
