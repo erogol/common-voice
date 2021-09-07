@@ -552,14 +552,18 @@ recordings =
 ## Dashboard
 
 your-languages = ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱠᱚ
+stats = ᱟᱸᱝᱠᱲᱟ
+awards = ᱥᱤᱨᱯᱷᱟᱹ
 you = ᱟᱢ
 everyone = ᱡᱷᱚᱛᱚᱠᱚ
+contribution-activity = ᱮᱱᱮᱢ ᱠᱟᱹᱢᱤ
 
 ## Custom Goals
 
 both-speak-and-listen = ᱵᱟᱱᱟᱨᱜᱮ
 both-speak-and-listen-long = ᱵᱟᱱᱟᱨᱜᱮ (ᱨᱚᱲ ᱢᱮ ᱟᱨ ᱟᱡᱚᱢ ᱢᱮ)
 easy-difficulty = ᱟᱞᱜᱟ
+average-difficulty = ᱮᱣᱨᱮᱡᱽ
 difficult-difficulty = ᱟᱸᱱᱴ
 pro-difficulty = ᱯᱨᱚ
 n-clips-pluralized =
