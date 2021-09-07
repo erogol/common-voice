@@ -573,6 +573,7 @@ clips-with-count-pluralized =
         [one] Клип
        *[other] Клипть
     }
+goal-help-recording = Лездыде Common Voice-нень пачкодеме <goalPercentage></goalPercentage> видьс минек эрьва чинь  { $goalValue } норовавксонть эйстэ!
 contribute-more =
     { $count ->
        *[other] Анокат седе тов { $count } теемс?
