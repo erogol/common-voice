@@ -745,6 +745,7 @@ get-started-goals = Principià incù i scopi
 create-custom-goal = Creà un scopu parsunale
 goal-type = Chì sorte di scopu vulete custruì ?
 both-speak-and-listen = Tramindui
+both-speak-and-listen-long = I duie (Parlà è Stà à sente)
 daily-goal = Scopu di u ghjornu
 weekly-goal = Scopu di a settimana
 easy-difficulty = Faciule
