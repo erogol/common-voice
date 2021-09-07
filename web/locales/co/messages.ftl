@@ -90,20 +90,33 @@ ne-NP = Nepalese
 nl = Nederlandese
 oc = Occitanu
 or = Odia
+pap-AW = Papiamentu (Aruba)
+pl = Pulunese
+ps = Pashtò
 pt = Portughese
 ru = Russiu
+sah = Iacutu
 sc = Sardu
 scn = Sicilianu
-sk = Slovaccu
-sl = Slovenu
+shi = Tascelì
+sk = Sluvaccu
+sl = Sluvenu
+sq = Albanese
 sr = Serbu
 sv-SE = Svedese
+syr = Siriacu
 te = Telugu
 th = Tailandese
 tr = Turcu
 tt = Tataru
+ug = Uiguru
 ur = Urdu
+uz = Uzbecu
 vec = Venizianu
+yue = Cantunese
+zh-CN = Chinese (China)
+zh-HK = Chinese (Hong Kong)
+zh-TW = Chinese (Taiwan)
 
 # [/]
 
@@ -332,6 +345,7 @@ faq-why-important-a =
 faq-how-get-q = Comu possu uttene i dati di Common Voice ?
 faq-how-get-a = A banca di dati Common Voice hè dispunibile à u scaricamentu sottu à a licenza <licenseLink>CC0</licenseLink> à a paghjina di <datasetLink>e nostre banche di dati</datasetLink>. Pudeti ancu scaricà parechje altre banche di dati publiche da issa paghjina.
 faq-when-release2-q = Quandu publicareti i dati di Common Voice in altre lingue ?
+faq-when-release2-a = A versione multi-lingue di a banca di dati Common Voice hè attualmente in ripulitura è nittatura dà a cummunità. Si vuleti aiutaci à raghjunghje mori lingue in Common Voice, pudeti aduprà <sentenceCollectorLink>l'Arnese di Racolta d'Infrasate</sentenceCollectorLink> pà ingrandà a banca di dati, è Mozilla <pontoonLink>Pontoon</pontoonLink> pà traduce u sitiu web stessu. Nove lingue sò aghjunte pà e cuntribuzioni vucale quandu 5000 infrasate cunvalidate sò state raccogliate.
 faq-why-mission-q = Parchì Common Voice fà parte di a missione di Mozilla ?
 faq-what-cv-and-deepspeech-q = Chì gjhè a differenza trà Common Voice è Deep Speech ?
 faq-what-cv-and-deepspeech-a = A banca di dati Common Voice cumpleta u mutore di ricunniscenza vucale di Mozilla, Deep Speech. A prima versione di Deep Speech hè stata publicata di nuvembre 2017 e hà sempre evuluatu dapoi. Cridimu chì sta tecnulugia di ricunniscenza vucale, incù a banca di dati, duvariani esse dispunibile per tutti. Speremu chì isse tecnulugie aiutarani i sviluppadori à creà un’onda di prudutti è servizii innuvanti.
@@ -343,6 +357,7 @@ faq-why-different-speakers-q = Parchì avete bisognu di tanti lucutori different
 faq-why-my-lang-q = Parchì a me lingua ùn hè ancu inghjusa ?
 faq-why-my-lang-new-a = Mozilla ùn sceglie o favurisci alcuna lingua sopr’à un’altra. A u cuntrariu, Common Voice hè un iniziativa di a cumunità, mà ci sò <multilangLink>parechje tappe pà aghjunghje una lingua addizziunale</multilangLink> è principià à racoglie campioni vucali. Primu, u situ web di Common Voice hà da esse traduttu pà esse accessibile à i locutori di sta lingua. Sicondu, avemu bisognu d’una tamanta cullezione d’infrasate libare di dritti pà esse lighjiti ad alta voce. Hè solu quandu issi duie cundizione sò suddesfani chi una lingua hè « lanciata » in Common Voice hè chì la ghjenti poni principià à arrighjistrassi è a cunvalidà l’altri. Si vuleti aiutà à lancià una lingua, addirizzatevi à <sentenceCollectorLink>l’arnese di racogliera d’infrasate</sentenceCollectorLink>.
 faq-what-quality-q = Chì niveddu di qualità audio hè richiestu pà avè un campione di voce adupratu in a banca di dati ?
+faq-what-quality-a = Vulemu chì a banca di dati di Common Voice pari à a qualità di ciò chì un mutori di ricunniscenza vucale sintarà in a rialità, è dunque circhemu varietà. In più da una cumunità diversa di locutori, una banca di dati cù una qualità varia insignarà à u mutori di ricunniscenza à gestisce parechji situazione realistiche, da una discussione in fondu à u frombu di una vittura. Si u campione vucale pò esse capitu, eddu cunvenerà sicuramente pà a banca di dati.
 faq-why-10k-hours-q = Parchì sò 10,000 ore d'arrighjistramenti cunvalidate u scopu ?
 faq-why-10k-hours-a = Hè più o menu a quantità d'ore necessarii pà addestrà un sistemu di pruduzzione di voce-à-u-testu.
 faq-how-calc-hours-q = Di chì manera Common Voice calculeghja l'ore ?
@@ -446,6 +461,7 @@ dataset-date = Data
 license = Licenza : <licenseLink> { $license } </licenseLink>
 license-mixed = Mischiatu
 data-download-singleword-title = Scaricà u segmentu specificu incù parolle uniche
+data-download-singleword-callout-v2 = Questu hè un segmentu fattu pà un casu d'utilizazione cuntenendu dati pà a ricunniscenza vucale di i ciffri è di e parolle Iè / Innò.
 review-terms = Usendu Common Voice, site d'accunsentu incù i nostri <termsLink>cundizioni d'utilizazioni</termsLink> è <privacyLink>a nostra pulitica di cunfidenzialità</privacyLink>
 terms-agree = Sò d'accunsentu
 terms-disagree = Ùn sò micca d'accunsentu
@@ -461,6 +477,12 @@ review-delete-recordings = Sguassà i mo arrighjistramenti
 ## Datasets Page
 
 datasets-headline = Custruimu una banca di voci, in sfarente lingue, aperta è dispunibile di manera publica chì ognunu puderà aduprà pà l'addestru di l'appiecazioni chì ponu parlà.
+datasets-positioning =
+    Noi cridimu chi banche di dati vucale tamante è pubbliche prumovani l’innuvazione è una cumpetizione sana in e tecnulugie vucale appughjate annantu à l’amparera di e machine.
+    
+    A banca di dati multilingue di Common Voice hè ghjà a più impurtante dispunibile pubblicamente di a so categuria, ma ùn hè micca a sola.
+    
+    Guardeti sta paghjina cumè una rifirenza pà altre banche di dati vucale di fonte aperte è pà e nostre messe à ghjornu future.
 language = Lingua
 # File size in gigabytes
 size = Dimensione
@@ -473,6 +495,7 @@ splits = Staccature
 email-to-download = Scrivite u vostru indirizzu elettronicu pà scaricà
 why-email = <b>Perchè un indirizzu email ?</b> Un indirizzu email ci permette d'invià vi i cambiamenti eventuali à nant'à a banca di dati.
 confirm-size = Site à nant'à u puntu di cummincià u scaricamentu di <b>{ $size }</b>
+size-megabyte = Mo
 confirm-no-identify = <b>Voi accitteti</b> d’ùn pruvà micca à identificà è voce in a banca di dati Common Voice.
 download-language = Scaricà { $language }
 validated-hours = Ore Cunvalidate
@@ -546,6 +569,7 @@ total-hours = Ore cunvalidate
 action-click = Preme
 action-tap = Appughjà
 contribute = Cuntribuisce
+listen = Stà à sente
 skip = Scappà
 shortcuts = Scurtatoghji
 clips-with-count-pluralized =
@@ -595,6 +619,7 @@ record-button-label = Arrighjistrà a vostra voce
 share-title-new = <bold>Aiutate ci</bold> à truvà voci in più
 keep-track-profile = Seguiteti i vostri prugressi creendu un prufilu
 login-to-get-started = Cunnittiti vi o iscrivite vi pà cummincià
+target-segment-first-banner = Aiuteti à creà u primu segmentu d’ugettivu di Common Voice in { $locale }
 target-segment-add-voice = Aghjustà a vostra voce
 target-segment-learn-more = Sapene di più
 
