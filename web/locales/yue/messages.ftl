@@ -513,7 +513,7 @@ data-download-deny = 唔係
 data-download-license = 授權條款: <licenseLink>CC-0</licenseLink>
 data-download-modal = 閣下將會下載 <size>{ $size } GB</size> 嘅檔案，要下載嗎？
 data-subtitle = 我哋整緊套公開而人人用得嘅語音數據集，人人都可以用佢來訓練認得到聲嘅應用程式。
-data-explanatory-text = 我地相信，大型而公開可用嘅語音數據集能夠促進語音機器學習科技嘅創新，以及健康嘅商業競爭。呢個係一個全球運動，我地邀請任何人士參與。我地嘅目標係令語音技術能夠更有包容性，反映出世界各地語音嘅多樣性。
+data-explanatory-text = 我哋相信，大型而公開可用嘅語音數據集能夠促進語音機器學習科技嘅創新，以及健康嘅商業競爭。我哋嘅計劃係全球協作，任何人士都歡迎參與。我哋嘅目標係令語音技術能夠更有包容性，反映出世界各地語音嘅多樣性。
 data-get-started = <speechBlogLink>語音辨識新手上路</speechBlogLink>
 data-other-title = 其他語音數據集…
 data-other-goto = 往 { $name }
@@ -526,7 +526,7 @@ license = 授權條款：<licenseLink>{ $license }</licenseLink>
 license-mixed = 混合
 data-download-singleword-title = 下載單字目標分段
 data-download-singleword-callout-v2 = 呢個係按照實際使用需要拆出嚟嘅部份，入面嘅資料可以用喺數字識別同埋是/否檢測。
-review-terms = 使用 Common Voice，即代表閣下同意我地嘅<termsLink>條款</termsLink>同埋<privacyLink>私隱聲明</privacyLink>
+review-terms = 使用 Common Voice，即代表閣下同意我哋嘅<termsLink>條款</termsLink>同埋<privacyLink>私隱聲明</privacyLink>
 terms-agree = 我同意
 terms-disagree = 我唔同意
 review-aborted = 上載中斷咗，你想唔想刪除你嘅錄音？
@@ -596,7 +596,7 @@ download-title = 你嘅下載已經開始咗
 download-helpus = 幫我哋打造一個使用語音技術嘅社群，並透過電郵保持聯繫。
 download-form-email =
     .label = 輸入你嘅電郵
-    .value = 多謝，我地保持聯絡。
+    .value = 多謝，我哋保持聯絡。
 download-back = 返回 Common Voice 數據庫
 download-no = 唔使嘞
 
@@ -689,7 +689,7 @@ listen-empty-state = 呢個語言可以驗證嘅錄音已經驗晒啦⋯⋯
 speak-empty-state = 呢個語言可以錄嘅句子已經錄晒啦⋯⋯
 speak-empty-state-cta = 貢獻句子
 record-button-label = 錄低你把聲
-share-title-new = <bold>幫我地</bold>揾多啲聲音
+share-title-new = <bold>幫我哋</bold>揾多啲聲音
 keep-track-profile = 建立個人檔案，紀錄閣下嘅進度
 login-to-get-started = 登入或注冊嚟開始
 target-segment-first-card = 閣下正為我哋第一條目標細分群體貢獻錄音
@@ -847,7 +847,7 @@ read-more-about = 去關於我哋嘅頁面瞭解更多
 
 ## DemoLayout
 
-demo-get-started = 我地開始啦
+demo-get-started = 我哋開始啦
 demo-welcome = 歡迎使用 Common Voice
 demo-welcome-subheader = 你有冇興趣學多啲嘢，為呢一個計劃貢獻？
 
