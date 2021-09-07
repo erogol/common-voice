@@ -393,6 +393,7 @@ faq-how-get-q = Кода таргамс «Common Voice» датанть?
 faq-how-get-a = «Common Voice» данной пурнавксось таргави <licenseLink>CC0</licenseLink> лисенциясо <datasetLink>Данной пурнавксонок лопасто</datasetLink>. Секе лопастонть маштовить таргамс ламо лия данной пурнавкст, конат уш ломань икеле.
 faq-when-release2-q = Зярдо кармат нолдамо «Common Voice» максовкст-даннойть лия кельсэ?
 faq-why-mission-q = Мейс «Common Voice»-сь совавтозь «Mozilla»-нь миссиянзо пельксэкс?
+faq-why-mission-a = Mozilla топавты мелензэ - улезэ Инеалтымась панжадо весень туртов. Тень теемга миненек эряви келейгавтомс теицятнень мелест-норовамост истямо проектэнь вельде кода Common Voice. Вайгелень технологиятне туить нишань путовкстнэнь томбалев ды секскак сыненст эряви вейкетьстэ ваномс мель тевс нодыцятнень. Те - путомс ярмак седе ламо кельс, саемс мельс эрьва кодат акцент ды демогррафият вайгелень технологиянь теемстэ ды ванномсто. Common Voice - те весень туртов кедь маласо ресурс, конань активнойстэ нолдыть тевс Mozilla- нь теицятне ды командатне масторонь перька эсест проекттнэсэ.
 faq-what-cv-and-deepspeech-q = Мейсэ явовить «Common Voice» ды «Deep Speech»?
 faq-is-goal-assistant-q = «Common Voice»  проектэнть нововаксозо теемс вайгелень сёрмадомань лезды кедь?
 faq-do-want-native-q = Мон аволь тиринь келень кортыцян ды кортамо лувом коряс содаван. Тень лангс апак вано вайгелем эряви?
@@ -729,6 +730,16 @@ want-to-continue = Теветь поладовлик?
 finish-editing = Прядомс васня витнематнень?
 lose-changes-warning = Нейке лисиндерят, весе полавтоматнень ёмавтсыть
 build-custom-goal = Путомс эстеть норовавкс-цель, конась эстеть лади
+help-reach-hours-pluralized =
+    Лездак изнямс{ NUMBER($hours) ->
+        [one] { $hours } час
+       *[other] { $hours } част
+    }{ $language }сэ эсеть норовавксот-целеть вельде
+help-reach-hours-general-pluralized =
+    Лездак Common Voice-нень изнямс{ NUMBER($hours) ->
+        [one] { $hours } час
+       *[other] { $hours } част
+    }кельсэть эсеть норовавксот-целеть вельде
 set-a-goal = Путомс норовавкс-цель
 cant-decide = Кавтолдат?
 activity-needed-calculation-plural =
@@ -756,6 +767,10 @@ n-clips-pluralized =
 help-share-goal = Лездак тенек муемс таго зярыя вайгельть, нолдык ломань икелев эсеть норовавксот-целеть
 confirm-goal = Кемекстамс норовавксот-целеть
 goal-interval-weekly = Таргозонзо
+# $type is one of share-goal-type-*
+share-n-daily-contribution-goal = Явшемс эсеть эрьва чинь { $count } клипень норовавксонть { $type } тевень коряс
+# $type is one of share-goal-type-*
+share-n-weekly-contribution-goal = Явшемс эсеть эрьва таргонь { $count } клипень норовавксонть { $type } тевень коряс
 share-goal-type-speak = Кортазь
 share-goal-type-listen = Кунсолозь
 share-goal-type-both = Кортазь-кунсолозь
