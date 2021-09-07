@@ -382,6 +382,7 @@ faq-title = Сеедьстэ максозь кевкстемат
 faq-what-cv-q = Common Voice -- те мезе истямось?
 faq-why-important-q = Мезекс эряви?
 faq-how-get-q = Кода таргамс «Common Voice» датанть?
+faq-how-get-a = «Common Voice» данной пурнавксось таргави <licenseLink>CC0</licenseLink> лисенциясо <datasetLink>Данной пурнавксонок лопасто</datasetLink>. Секе лопастонть маштовить таргамс ламо лия данной пурнавкст, конат уш ломань икеле.
 faq-when-release2-q = Зярдо кармат нолдамо «Common Voice» максовкст-даннойть лия кельсэ?
 faq-why-mission-q = Мейс «Common Voice»-сь совавтозь «Mozilla»-нь миссиянзо пельксэкс?
 faq-what-cv-and-deepspeech-q = Мейсэ явовить «Common Voice» ды «Deep Speech»?
