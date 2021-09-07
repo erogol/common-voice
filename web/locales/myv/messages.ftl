@@ -505,8 +505,11 @@ feedback-q = Мельполадксот улить?
 community-playbook = Теиця куронь кунсолома журнал
 data-other-ted-name = «TED-LIUM» Корпус
 data-other-ted-description = «TED-LIUM» Корпусось пурназь «TED» сайтсэ максозь аудио кортамотнень ды сынст транскрипцияст эйстэ.
+data-other-voxforge-description = VoxForge путозель транскрибировазь кортамонь пурнамга, конась нолдави тевс олясо ды весенень панжадо вайгелень содамга механизматнесэ.
 data-other-tatoeba-description = «Tatoeba» те валрисьмень, ютавксонь ды кортамо аудионь покш данбаза, конась арсезь келень тонавтнемс. Тень таргасак, муят кортамо англань кель, конань сёрмадызе англань келень ломанькурось.
-go-discourse = Совамс дискурсияс
+your-feedback = Улить арсемат, кода вадрялгавтомс «Common Voice» данной пурнавксонть? Ёвтнек тенек теде «Discourse» вальмасо
+go-discourse = Совамс «Discourse» вальмас
+missing-language = А неят эсеть келеть ёнксонзо данной пурнавксонть эйстэ? Келень вешемга, мольть Келень лопазонок.
 go-languages-page = Совамс келень лопас
 ready-to-validate = Аноктадо валрисьмень ванномс?
 more = Седе тов
@@ -567,8 +570,8 @@ skip = Ютамс вакска
 shortcuts = Керязь кить
 clips-with-count-pluralized =
     { $count ->
-        [one] Ролик
-       *[other] Роликт
+        [one] Клип
+       *[other] Клипть
     }
 contribute-more =
     { $count ->
