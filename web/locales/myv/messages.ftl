@@ -621,3 +621,4 @@ profile-not-required = Лездамсто профилэсь а эряви, ял
 
 ## Validation criteria
 
+contribution-criteria-page-title = Лезксэнь максомань критерият
