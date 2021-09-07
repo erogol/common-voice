@@ -642,6 +642,9 @@ record-button-label = Сёрмадомс вайгелеть
 share-title-new = <bold>Лездак миненек</bold> муемс лия вайгельть
 keep-track-profile = Ваномс путовксот касома мельга профилсэ
 login-to-get-started = Совак эли совамо тарка тейть тевень ушодомга
+target-segment-first-card = Кандат лезэ минек васенце норовавкс сегментс.
+target-segment-generic-card = Кандат лезэ норовавкс сегментс.
+target-segment-first-banner = Лездак  шкамс-теемс Common Voice-энь васенце норовавкс сегментс { $locale }сэ
 target-segment-add-voice = Поладык эсеть вайгелеть
 target-segment-learn-more = Ловнок седе тов
 
@@ -705,6 +708,7 @@ validated-clips = Кемекстазь клиптне
 total-approved = Зяро кемекстазь весемезэ
 overall-accuracy = Весемезэ, кода вадрясто теезь
 set-visibility = Путомс неявомаксчим
+visibility-overlay-note = Мельс ледстямга: Зярдо аравтомат невти 'Неяви', сестэ аравтомась маштови полавтомс <profileLink>Профил лопасояк</profileLink>
 show-ranking = Невтемс кодамо рангом
 
 ## Custom Goals
@@ -720,6 +724,7 @@ easy-difficulty = Шожда
 average-difficulty = Куншкавидень
 difficult-difficulty = Стака
 pro-difficulty = Профессионалонь
+lose-goal-progress-warning = Бути ней витнят-петнят норовавксот-целеть, ёмавтсак касомадот информациянть.
 want-to-continue = Теветь поладовлик?
 finish-editing = Прядомс васня витнематнень?
 lose-changes-warning = Нейке лисиндерят, весе полавтоматнень ёмавтсыть
