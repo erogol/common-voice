@@ -155,6 +155,7 @@ logout = Scunnettassi
 ## Home Page
 
 home-title = Common Voice hè l'iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parlanu e vere persone.
+default-tagline = Common Voice hè un'iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parlanu e vere persone.
 home-cta = Parlate puru, cuntribuite quì !
 wall-of-text-start = A voce hè naturale, a voce hè umana. Hè per quessa chì no simu affascinati da a criazione di una tecnulugia di voce aduprabile per e nostre macchine. Ma per creà sistemi di voce, una quantità tamanta di dati vucale hè richiesta.
 wall-of-text-more-mobile = A maiò parte di i dati ghjuvati da l'imprese maiò ùn sò micca dispunibile à a maiurità di e parsone. Pinsemu chì suffuca l'innuvazione. Tandu avemu lanciatu u prughjettu Common Voice, pà aiutà à apre à tutti a ricunniscenza vucale.
@@ -345,6 +346,10 @@ faq-title = Dumande Frequenti
 faq-what-cv-q = Chì hè Common Voice ?
 faq-what-cv-a =
     A tecnulugia di a ricunniscenza vucale hè in traccia di rivuluziunà a nostra manera d'interagisce cù e macchine, ma i sistemi ch'omu pò aduprà per avà sò cari è esclusivi. Common Voice fà parte di a mossa di Mozilla chì cerca da rende più bonu è più accessibile da tutti e tecnulugie di ricunniscenza vucale. Common Voice hè una banca di dati mundiale tamanta di voci date chì pirmette à tutt'ognunu di modu prestu è simplice d'addestrà applicazioni vucali in putenzialmente ogni lingua.
+    
+    Ùn femu micca ch'è racoglie ritagliuli di voci in le lingue più parlate di u mundu ma dinò in quelle parlate da menu ghjente. Publicà una banca di voci diversa hà da pirmette à i sviluppatori, l'impresarii è e cumunità di superà da per elli sta mancanza. In più di a banca di dati di Common Voice, sviluppemu ancu un mutore di ricunniscenza vocale open source chjamatu Deep Speech.
+faq-what-cv-a-2 =
+    A tecnulugia di a ricunniscenza vucale hè in traccia di rivuluziunà a nostra manera d'interagisce cù e macchine, ma i sistemi ch'omu pò aduprà per avà sò cari è esclusivi. Common Voice hè un'iniziativa di Mozilla pà rende più bonu è più accessibile da tutti e tecnulugie di ricunniscenza vucale. Common Voice hè una banca di dati mundiale tamanta di voci date chì pirmette à tutt'ognunu di modu prestu è simplice d'addestrà applicazioni vucali in putenzialmente ogni lingua.
     
     Ùn femu micca ch'è racoglie ritagliuli di voci in le lingue più parlate di u mundu ma dinò in quelle parlate da menu ghjente. Publicà una banca di voci diversa hà da pirmette à i sviluppatori, l'impresarii è e cumunità di superà da per elli sta mancanza. In più di a banca di dati di Common Voice, sviluppemu ancu un mutore di ricunniscenza vocale open source chjamatu Deep Speech.
 faq-why-important-q = Parchì hè impurtante ?
