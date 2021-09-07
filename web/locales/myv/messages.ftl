@@ -78,6 +78,7 @@ hy-AM = Арменэнь кель
 hyw = Чивалгома ёнксонь арменэнь кель
 ia = Интерлингуань кель
 id = Индонезиянь кель
+ie = Интерлингвень кель
 is = Исландиянь кель
 it = Италиянь кель
 izh = Ижорань кель
@@ -129,6 +130,7 @@ ro = Румынэнь кель
 ru = Рузонь кель
 rw = Киньярвандань кель
 sah = Сахань кель
+sat = Санталинь кеь (Ол Чики)
 sc = Сардиниянь кель
 scn = Сицилиянь кель
 shi = Шилянь кель
@@ -690,6 +692,25 @@ activity-needed-calculation-plural =
         [one] { $clipsPerDay } клип
        *[other] { $clipsPerDay } клипть
     }чизэнзэ.
+how-many-per-day = Маралянь тевть! Зяро клипть чизэнзэ?
+how-many-a-week = Маралянь тевть! Зяро клипть таргозонзо?
+which-goal-type = Тон арсят Кортамс, Кунсоломс эли кавонест тевтнень тейсыть?
+n-clips-pluralized =
+    { NUMBER($count) ->
+        [one] { $count } клип
+       *[other] { $count } клипть
+    }
+help-share-goal = Лездак тенек муемс таго зярыя вайгельть, нолдык ломань икелев эсеть норовавксот-целеть
+confirm-goal = Кемекстамс норовавксот-целеть
+goal-interval-weekly = Таргозонзо
+share-goal-type-speak = Кортазь
+share-goal-type-listen = Кунсолозь
+share-goal-type-both = Кортазь-кунсолозь
+weekly-goal-created = Таргонь норовавксот-целеть шказь-теезь
+daily-goal-created = Чинь норовавксот-целеть шказь-теезь
+track-progress = Невтемс касомат тесэяк, статистикань лопасоткак.
+return-to-edit-goal = Велявтомс теске норовавксот-целеть витнемга.
+share-goal = Нолдынк норовавксом-целем ломань туртов
 
 ## Profile Delete
 
@@ -699,23 +720,47 @@ profile-form-delete = Нардамс профиленть
 
 ## Landing
 
+login-company = Совамс / Шкамс совамо тарка { $company } ёндолсёрма адрессэ
 profile-not-required = Лездамсто профилэсь а эряви, ялатеке сон лезэв
+read-more-about = Ловнок седе тов «Минденек» лопасонок
 
 ## DemoLayout
 
+demo-get-started = Адя, ушодтано
+demo-welcome = Совак, инеськеть, «Common Voice-ес»
 
 ## Demo Datasets
 
+card-button-next = Икелев
+card-button-back = Мекев
+demo-language-select-label = Ваномс кельтнесэ
+demo-eofy-header = 2019 Иень прядомань нолдавкс
+demo-eofy-sub_header = Вайгелень данной пурнавкс, анок таргамс
+demo-account = Совамо тарка
 
 ## Demo Account
 
+demo-account-card-header = Лезксэнь максомга а эряви эсеть совамо тарка, се ансяк шождалгавтсы теветь.
+demo-account-enter-email =
+    .label = Совавтт ёндолсёрмапаргот прянь сёрмадстомань сюлмавксонь кучовтомга
+demo-account-sign-up = Кучовтомс прянь сёрмадстомань сюлмавкс
 
 ## Demo Contribute
 
+demo-contribute-card-header = Аноктадо лездамо вайгелень сёрмадозь эли пилесэ кунсолозь?
+demo-listen-subtitle = Аноктадо лезксэнь максомо?
 
 ## Demo Dashboard
 
+demo-dashboard-card-header = Эсеть аравтома лазот невтить течемень касомат, эсетсенть ды вейсэнь куротсенть.
 
 ## Validation criteria
 
+contribution-criteria-nav = Критерият
+contribution-criteria-link = Чарькодемс лезксэнь максомань критерият
 contribution-criteria-page-title = Лезксэнь максомань критерият
+contribution-for-example = саемга
+contribution-misreadings-title = Беряньстэ ловномат
+contribution-just-unsure-title = Ансяк Кавтолдат?
+see-more = <chevron></chevron>Неемс седе ламо
+see-less = <chevron></chevron>Неемс седе аламо
