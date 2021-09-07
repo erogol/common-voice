@@ -340,10 +340,14 @@ on = ᱪᱟᱹᱞᱩ
 
 ## Profile - Email
 
+avatar-uploaded = ᱟᱹᱣᱛᱟᱨ ᱞᱟᱫᱮ ᱦᱩᱭ ᱮᱱᱟ
 max-file-size = ᱡᱟᱹᱥᱛᱤ { $kb }kb
 
 ## Profile - Email
 
+manage-subscriptions = ᱥᱟᱹᱵᱥᱠᱨᱤᱯᱥᱚᱱ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+manage-email-subscriptions = ᱤᱢᱮᱞ ᱥᱟᱹᱵᱥᱠᱨᱤᱯᱥᱚᱱ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+email-already-used = ᱵᱷᱮᱜᱟᱨ ᱠᱷᱟᱛᱟ ᱞᱟᱹᱜᱤᱫ ᱤᱢᱮᱞ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱱᱟ
 add-language = ᱯᱟᱹᱨᱥᱤ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 
 ## FAQ
@@ -353,6 +357,7 @@ faq-why-important-q = ᱱᱚᱶᱟ ᱫᱚ ᱪᱮᱫᱟᱜ ᱢᱚᱦᱚᱛ ᱜᱮ
 faq-how-get-q = ᱪᱮᱠᱟ ᱞᱮᱠᱟᱛᱮ ᱤᱧ ᱥᱚᱢᱟᱱ ᱟᱲᱟᱝ ᱰᱟᱴᱟ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ?
 faq-when-release2-q = ᱥᱚᱢᱟᱱ ᱟᱲᱟᱝ ᱰᱟᱴᱟ ᱮᱴᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱛᱤᱥ ᱯᱮ ᱨᱤᱞᱤᱡᱽ ᱟ?
 faq-why-my-lang-q = ᱤᱧᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱪᱮᱫᱟᱜ ᱱᱤᱛ ᱵᱟᱠᱚ ᱥᱟᱹᱢᱤᱞ ᱟᱠᱟᱫᱟ?
+faq-where-src-from-2-q = ᱢᱩᱞ ᱚᱞ ᱫᱚ ᱠᱚᱟ ᱠᱷᱚᱱ ᱦᱮᱡ ᱠᱟᱱᱟ?
 faq-what-is-cv = Common Voice ᱫᱚ ᱪᱮᱫ ᱠᱟᱱᱟ?
 faq-search-for-answers =
     .label = ᱡᱚᱵᱟᱵᱽ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
