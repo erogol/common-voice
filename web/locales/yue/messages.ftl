@@ -393,18 +393,18 @@ faq-why-important-a =
 faq-how-get-q = 我可以點樣可以攞到 Common Voice 嘅數據？
 faq-how-get-a = 我哋嘅資料集可到<datasetLink>Common Voice 數據集頁面</datasetLink>下載，本數據集使用<licenseLink>CC0</licenseLink>授權。閣下仲可以喺該頁面中下載其它幾套嘅數據集。
 faq-when-release2-q = Common Voice 幾時會發放其他語言嘅數據？
-faq-when-release2-a = 多語言版本嘅 Common Voice 數據集，目前正交由社群進行清理同埋打包。若閣下想幫我地新添語言到 Common Voice，請使用 <sentenceCollectorLink>語句收集工具</sentenceCollectorLink>來將語句加入到數據集，並到 <pontoonLink>Mozilla Pontoon</pontoonLink> 度將網站翻譯成該語言。當每種語言有超過 5000 條語句並獲審批後，就會正式加入 Common Voice。
+faq-when-release2-a = 唔同語言版本嘅 Common Voice 數據集係由社群整理維護。如果想為 Common Voice 支援新語言出一分力，請使用<sentenceCollectorLink>語句收集工具</sentenceCollectorLink>將語句加入數據集，跟住去 <pontoonLink>Mozilla Pontoon</pontoonLink> 度將網站翻譯。當每種語言有超過 5000 條語句同埋獲得審批之後，就會正式加入 Common Voice。
 faq-why-mission-q = 點解Common Voice 係 Mozilla 嘅重點任務之一？
-faq-why-mission-a = Mozilla 致力於保持網路開放，令任何人都可使用。為咗達到呢個目標，我地要透過 Common Voice 噉樣嘅計劃嚟幫助網絡創作者。隨住採用語音技術嘅程式激增，我哋相信呢啲程式應該公平噉嚟服務所有使用者。噉樣意味住喺建設與測試語音科技時，需要滿足更多唔同腔調、年齡層等等嘅需求。Common Voice 將會成為一套人人可用嘅公眾資源，而且Mozilla 同埋全球開發者羣眾已將佢用喺專案開發當中。
+faq-why-mission-a = Mozilla 致力於保持網路開放，令任何人都可使用。為咗達到呢個目標，我哋要透過 Common Voice 噉樣嘅計劃嚟幫助網絡創作者。隨住採用語音技術嘅程式激增，我哋相信呢啲程式應該公平噉嚟服務所有使用者。噉樣即係話喺建設同測試語音科技嘅時候，需要滿足更多唔同腔調、年齡層等等嘅需求。Common Voice 將會成為一套人人可用嘅公眾資源，而且Mozilla 同埋全球開發者羣眾已將佢用喺唔同嘅計劃入面。
 faq-what-cv-and-deepspeech-q = Common Voice 同 Deep Speech 有咩分別？
-faq-what-cv-and-deepspeech-a = Common Voice 能夠同 Mozilla 嘅開放原始碼語音識別引擎 Deep Speech 互補。初版嘅 Deep Speech 喺 2017 年 11 月發行，並持續發展。加埋 Common Voice 數據集，我地相信呢套開放原始碼語音辨識技術應該開放畀所有人使用，亦希望呢啲技術可以令開發者建設到新一輪嘅產品同埋服務。
+faq-what-cv-and-deepspeech-a = Common Voice 能夠同 Mozilla 嘅開放原始碼語音識別引擎 Deep Speech 互補。初版嘅 Deep Speech 喺 2017 年 11 月發行，持續發展。加埋 Common Voice 嘅數據集，我哋相信呢套開放原始碼語音辨識技術應該開放畀所有人使用，亦希望呢啲技術可以令開發者建設到新一輪嘅產品同埋服務。
 faq-is-goal-assistant-q = Common Voice 係咪志在建立一個語音助手？
 faq-is-goal-assistant-a = Common Voice 數據集嘅目標係令任何人都可以建造語音識別、説話者識別，或其他任何需要語音資料嘅應用程式。語音助理就是呢個數據集可以用嚟建造嘅應用之一。
 faq-do-want-native-q = 如果我唔係母語人士而且講野有口音，咁你地仲要唔要我把聲？
 faq-do-want-native-a = 當然，我哋特別想要閣下把聲音！Common Voice其中一個目標係盡可能收集各種口音，令到語音識別服務能夠適用到每個人。意味住非母語人士嘅貢獻尤其重要。
 faq-why-different-speakers-q = 點解每種語言需要咁多貢獻者呢？
 faq-why-different-speakers-a =
-    大多數嘅語音數據庫嘅語音來源偏重某啲特定人口，令到結果偏向於<articleLink>男性以及中產階級</articleLink>。而喺呢啲訓練機械嘅數據之中，各種弱勢嘅口音以及方言往往同邊緣化嘅人群有關，同時好多機器亦好難理解女性嘅聲音。
+    大多數嘅語音數據庫嘅語音來源偏重某啲特定人口，令到結果偏向於<articleLink>男性以及中產階級</articleLink>。而喺呢啲訓練機械嘅數據之中，各種弱勢嘅口音同方言往往同邊緣化嘅人群有關，好多機器亦好難理解女性嘅聲音。
     呢個就係點解我哋嘅語音數據庫應該海納百川，收集各種聲音！
 faq-why-my-lang-q = 點解仲未有我嘅語言嘅？
 faq-why-my-lang-new-a = Mozilla 唔會特別偏好邊種語言。相反而然 Common Voice 係一個純社群發起嘅計劃，需要<multilangLink>幾個步驟先可以新增語言</multilangLink>並開始收集語音片段。首先，需要完成翻譯 Common Voice 網站，噉樣社群成員先得用自己嘅語言進行貢獻。次之，我地需要大量嘅無版權語句，畀大家可以朗讀出嚟。當兩個條件都滿足之後， Common Voice 即可「上線」，畀大家開始錄音，同埋驗證其他人所錄低嘅片段。如果你想協助準備畀新語言上線，歡迎到<sentenceCollectorLink>語句收集工具</sentenceCollectorLink>開始幫手。
