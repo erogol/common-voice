@@ -478,16 +478,21 @@ review-delete-recordings = Нардамс мезе лентас сёрмадын
 
 ## Datasets Page
 
+datasets-headline = Минь тейтяно весенень панжадо, ламо кельсэ вайгелень данной пурнавкс, кона маштови кинень мелезэ нолдамс тевс, зярдо тонавты чарькс программа вайгелень содамос.
 language = Кель
 # File size in gigabytes
 size = Покшолма
+validated-hr-total = Зяро част ваннозь весемезе
+overall-hr-total = Зяро част весемезе
 cv-license = Лиценция
 audio-format = Аудионь формат
 number-of-voices = Зяро вайгельтнеде
 splits = Явомат
 email-to-download = Совавтык ёнсёрма адресэт таргамга
-size-gigabyte = GB
-size-megabyte = MB
+confirm-size = Ней анокат таргамо даннойть, конатнень покшолмаст <b>{ $size }</b>
+size-gigabyte = ГБ
+size-megabyte = МБ
+confirm-no-identify = <b>Тынь ве мельс пратадо</b> а снартнемс содамо Common Voice данной пурнавкссонть кортыцятнень
 download-language = Таргамс { $language }
 validated-hours = Валидэкс ловозь част
 recorded-hours = Сёрмадозь част
