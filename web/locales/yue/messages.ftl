@@ -202,7 +202,7 @@ wall-of-text-second = 大部分現成嘅數據都係由大公司擁有，無開�
 show-wall-of-text = 了解更多
 help-us-title = 幫我哋手驗證句子啦！
 help-us-explain = 撳播放、聽完、再回覆：呢句話讀得啱唔啱？
-no-clips-to-validate = 睇來而家冇錄音可聽。不如幫我哋錄返啲？
+no-clips-to-validate = 睇嚟而家冇錄音可以聽。不如幫我哋錄返啲？
 vote-yes = 係
 vote-no = 唔係
 toggle-play-tooltip = 撳 { shortcut-play-toggle } 即可切換播放模式
@@ -341,7 +341,7 @@ edit-profile = 編輯個人檔案
 profile-create-success = 成功建立個人檔案！
 profile-close = 關閉
 profile-explanation = 使用你嘅個人檔案可以保留你嘅進展，仲可以幫我哋提高語音數據嘅準確度。
-thanks-for-account = 感謝你確認你嘅帳戶，而家我哋一齊建立你嘅個人資料啦
+thanks-for-account = 感謝你確認你嘅帳户，而家我哋一齊建立你嘅個人資料喇
 why-demographic = 點解呢個好重要？
 why-demographic-explanation-2 = 匿名化嘅使用者資料，如年齡、性別、口音等，可以幫助我哋改善用嚟提升訓練語音識別精確性嘅語音資料。你嘅帳號同電郵唔會同你提交嘅數據相關聯，你亦都可以決定公開你嘅帳號或者保持匿名。
 accept-privacy = 我同意你依照 Mozilla 嘅<privacyLink>私隱保護政策</privacyLink>中描述嘅方式來處理呢啲資料
@@ -380,9 +380,9 @@ change-email-setings = 要更改電郵，請先撳登入身份，然後再撳設
 
 faq-title = 常見問題
 faq-what-cv-q = Common voice 係乜嘢？
-faq-what-cv-a = 語音識別技術喺度改變緊我地同機器互動嘅方法，但目前可用嘅系統唔單止貴，而且係專有技術。Mozilla 提出 Common Voice 作為改進語音識別技術，並將之普及到大眾嘅計畫嘅一部分。Common Voice 都係一套收集咗世界各地人所損贈語音嘅數據庫，希望有助所有人來又快又易噉訓練出可以識別任何語音功能嘅應用程式。
+faq-what-cv-a = 語音識別技術喺度改變緊我哋同機器互動嘅方法。但係目前可以用嘅系統唔單止貴，而且係專有技術。Mozilla 提出 Common Voice 作為改進語音識別技術，並將之普及到大眾嘅計畫嘅一部分。Common Voice 係一套收集咗世界各地人所損贈語音嘅數據庫，希望有助所有人又快又易噉訓練出可以識別任何語音功能嘅應用程式。
 faq-what-cv-a-2 =
-    語音識別技術喺度改變緊我地同機器互動嘅方法，但目前可用嘅系統唔單止貴，而且係專有技術。Mozilla 提出 Common Voice 作為改進語音識別技術，並將之普及到大眾嘅計畫嘅一部分。Common Voice 都係一套收集咗世界各地人所損贈語音嘅數據庫，希望有助所有人來又快又易噉訓練出可以識別任何語音功能嘅應用程式。¶
+    語音識別技術喺度改變緊我地同機器互動嘅方法。但係目前可用嘅系統唔單止貴，而且係專有技術。Mozilla 提出 Common Voice 作為改進語音識別技術，並將之普及到大眾嘅計畫嘅一部分。Common Voice 係一套收集咗世界各地人所損贈語音嘅數據庫，希望有助所有人來又快又易噉訓練出可以識別任何語音功能嘅應用程式。¶
     ¶
     我哋唔止想收集被廣泛使用嘅語言，亦都想收集少有人講嘅語音樣本。一套多元語音資料集，用來幫助開發者、創業家，以及唔同社群縮窄科技上個鴻溝。
 faq-why-important-q = 點解呢個好重要？
@@ -865,7 +865,7 @@ demo-account = 帳戶
 ## Demo Account
 
 demo-account-card-header = 唔建立帳戶亦可貢獻，但如果有嘅話會更有幫助，下面話你知點解。
-demo-account-card-body = 喺右手邊，我地列明左各項成效以及了我地會公開嘅資訊。請用以下嘅連結喺你自己嘅裝置上開始使用Common Voice 賬戶。
+demo-account-card-body = 喺右手邊，我哋列明左各項成效以及了我哋會公開嘅資訊。請用以下嘅連結喺你自己嘅裝置上開始使用 Common Voice 賬户。
 demo-account-enter-email =
     .label = 輸入你嘅電郵地址嚟轉送註冊鏈結
 demo-account-sign-up = 寄送註冊連結
