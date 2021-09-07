@@ -540,7 +540,7 @@ review-delete-recordings = 刪除我嘅錄音
 
 ## Datasets Page
 
-datasets-headline = 我地想建立一套開放原始碼、多重語言嘅語音數據集，令到任何人都可以用來開發同語音相關嘅應用。
+datasets-headline = 我哋想建立一套開放原始碼、多重語言嘅語音數據集，令到任何人都可以用來開發同語音相關嘅應用。
 datasets-positioning =
     我們相信若有一組大型、可公開使用的語音數據集，可奠定以機器學習為基礎嘅語音技術上嘅創新，同埋健康嘅商業競爭。
     
@@ -559,8 +559,8 @@ splits = 語音特徵概況
 email-to-download = 寫低電郵嚟下載
 why-email = <b>點解需要電郵地址?</b>我哋可能會喺未來聯絡閣下，提供與數據集相關嘅新資訊。電郵可作為我哋聯絡閣下嘅方式。
 confirm-size = 閣下將開始一個<b>{ $size }</b>嘅下載項目
-size-gigabyte = 千兆字節
-size-megabyte = 兆字節
+size-gigabyte = GB
+size-megabyte = MB
 confirm-no-identify = <b>你同意</b>唔去嘗試識別 Common Voice 資料集内談話人士嘅個人身分
 download-language = 下載{ $language }
 validated-hours = 已驗證時數
