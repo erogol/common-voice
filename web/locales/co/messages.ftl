@@ -103,6 +103,7 @@ mg = Malgasciu
 mhr = Mari da e pratuline
 mk = Macedunianu
 ml = Malayalam
+mn = Mongulu
 mos = Morè
 mr = Marathi
 mrj = Mari uccidentale
@@ -664,6 +665,7 @@ record-abort-continue = Compie l'arrighjistramentu
 record-abort-delete = Andassi è sguassà i ducumenti
 listen-instruction = { $actionType }<playIcon></playIcon> anu prununciatu l'infrasata di manera curretta ?
 listen-again-instruction = Un bellu travagliu ! <playIcon></playIcon> Ascolta torna quandu site prontu
+listen-3rd-time-instruction = Più chì 2 <playIcon></playIcon>, cuntinuatelu !
 listen-last-time-instruction = <playIcon></playIcon>L'ultimu !
 listen-empty-state = Ùn avemu più campioni dà cunvalidà in issa lingua...
 speak-empty-state = Ùn avemu più infrasate à arrighjistrà in issa lingua...
@@ -734,6 +736,7 @@ validated-clips = Campioni cunvalidati
 total-approved = Tutale cunvalidatu
 overall-accuracy = Pricisione glubale
 set-visibility = Definisce a mo visibilità
+visibility-overlay-note = Nota : Quandu hè definitu à nantu à 'Visìbile', si pò cambià à nant'à a <profileLink>pagina di prufilu</profileLink>
 show-ranking = Muscià a mo classifica
 
 ## Custom Goals
@@ -791,6 +794,7 @@ share-goal = Sparte u mo scopu
 
 ## Profile Delete
 
+delete-q = Vulete dumandà chi i vostri arrighjistramenti urali siani cacciati dinù, o preferite tene li in a banca di dati di Common Voice ?
 keep = Mantene
 remove = Caccià
 why-delete-recordings =
