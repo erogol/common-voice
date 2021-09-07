@@ -358,7 +358,10 @@ faq-how-get-q = ᱪᱮᱠᱟ ᱞᱮᱠᱟᱛᱮ ᱤᱧ ᱥᱚᱢᱟᱱ ᱟᱲᱟ
 faq-when-release2-q = ᱥᱚᱢᱟᱱ ᱟᱲᱟᱝ ᱰᱟᱴᱟ ᱮᱴᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱛᱤᱥ ᱯᱮ ᱨᱤᱞᱤᱡᱽ ᱟ?
 faq-why-my-lang-q = ᱤᱧᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱪᱮᱫᱟᱜ ᱱᱤᱛ ᱵᱟᱠᱚ ᱥᱟᱹᱢᱤᱞ ᱟᱠᱟᱫᱟ?
 faq-where-src-from-2-q = ᱢᱩᱞ ᱚᱞ ᱫᱚ ᱠᱚᱟ ᱠᱷᱚᱱ ᱦᱮᱡ ᱠᱟᱱᱟ?
+faq-why-account-q = ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱟᱛᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱭᱤᱱ ᱟᱹᱯ ᱪᱮᱫᱟᱜ ᱤᱧ ᱮᱢ ᱟ?
+faq-is-account-public-q = ᱤᱧᱟᱜ ᱠᱷᱟᱛᱟ ᱟᱭᱢᱟ ᱦᱚᱲ ᱠᱚ ᱵᱟᱲᱟᱭᱟ ᱥᱮ?
 faq-what-is-cv = Common Voice ᱫᱚ ᱪᱮᱫ ᱠᱟᱱᱟ?
+faq-using-cv = Common Voice ᱵᱮᱵᱷᱟᱨᱮᱫᱟᱹᱧ
 faq-search-for-answers =
     .label = ᱡᱚᱵᱟᱵᱽ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 
@@ -367,9 +370,11 @@ faq-search-for-answers =
 about-title = ᱪᱮᱫᱟᱜ Common Voice?
 about-speak = ᱨᱚᱲ ᱢᱮ
 about-listen = ᱟᱧᱡᱚᱢ ᱢᱮ
+about-is-it-valid = ᱱᱚᱶᱟ ᱠᱞᱤᱯ ᱫᱚ ᱥᱟᱹᱨᱤᱭᱟᱹ ᱜᱭᱟ ᱥᱮ?
 about-yes-votes = ≥ ᱒ ᱦᱮᱸ ᱵᱷᱚᱴ
 about-no-votes = ≥ ᱒ ᱵᱟᱝ ᱵᱷᱚᱴ
 about-dataset-new = ᱥᱚᱢᱟᱱ ᱟᱲᱟᱝ ᱰᱟᱴᱟᱥᱮᱴ
+about-clip-graveyard = ᱠᱞᱤᱯ ᱢᱚᱥᱟᱬᱤ
 about-partners = ᱵᱷᱟᱹᱜᱤᱭᱟᱹᱨᱤᱠᱚ
 about-become-a-partner = ᱵᱷᱟᱹᱜᱤᱭᱟᱹᱨᱤ ᱵᱮᱱᱟ ᱯᱮ
 about-get-involved = ᱥᱟᱹᱢᱤᱞᱚᱜ ᱯᱮ
@@ -378,12 +383,14 @@ about-nav-how-it-works = ᱪᱮᱠᱟᱛᱮ ?
 about-nav-partners = ᱵᱷᱟᱹᱜᱤᱭᱟᱹᱨᱤᱠᱚ
 about-nav-get-involved = ᱥᱟᱹᱢᱤᱞᱚᱜ ᱯᱮ
 mycroft-title = Mycroft Ai
+mycroft-subtitle = ᱟᱨᱴᱤᱯᱷᱤᱥᱤᱭᱟᱞ ᱤᱱᱴᱮᱞᱤᱡᱮᱱᱥ
 
 ## Glossary
 
 glossary = ᱥᱟᱵᱟᱫᱽ ᱜᱟᱫᱮᱞ
 localization = ᱞᱚᱠᱟᱞᱟᱭᱡᱮᱥᱚᱱ
 sentence-collection = ᱟᱹᱭᱟᱹᱛ ᱛᱩᱢᱟᱹᱞ
+sst = ᱥᱟᱲᱮ ᱠᱷᱚᱱ ᱚᱞ (STT)
 
 ## Error pages
 
@@ -419,12 +426,18 @@ language = ᱯᱟᱹᱨᱥᱤ
 # File size in gigabytes
 size = ᱢᱟᱯ
 cv-license = ᱞᱟᱭᱥᱮᱱᱥ
+audio-format = ᱥᱟᱲᱮ ᱯᱷᱚᱨᱢᱟᱴ
+number-of-voices = ᱥᱟᱲᱮ ᱠᱚᱣᱟᱜ ᱮᱞ
 splits = ᱵᱷᱟᱜᱽ
 email-to-download = ᱰᱟᱩᱱᱞᱚᱰ ᱞᱟᱹᱜᱤᱫ ᱤᱢᱮᱞ ᱟᱫᱮᱨ ᱢᱮ
 size-gigabyte = GB
 size-megabyte = MB
 download-language = ᱰᱟᱩᱱᱞᱚᱰ { $language }
 subscribe = ᱥᱟᱹᱵᱥᱠᱨᱟᱭᱤᱵ
+other-datasets = ᱮᱴᱟᱜ ᱥᱟᱲᱮ ᱰᱟᱴᱥᱮᱴ
+feedback-q = ᱟᱢᱟᱜ ᱢᱚᱛ ᱢᱮᱱᱟᱜᱼᱟ ᱥᱮ?
+data-other-ted-name = TED-LIUM ᱠᱚᱨᱯᱚᱥ
+go-languages-page = ᱯᱟᱹᱨᱥᱤ ᱥᱟᱦᱴᱟ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
 more = ᱰᱷᱮᱨ
 close = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 download = ᱰᱟᱩᱱᱞᱚᱰ
@@ -465,6 +478,7 @@ language-meter-in-progress = ᱞᱟᱦᱟ
 language-total-progress = ᱢᱳᱴ
 language-search-input =
     .placeholder = ᱥᱮᱸᱫᱽᱨᱟ
+language-speakers = ᱨᱚᱲᱠᱩᱜ
 sentences = ᱟᱭᱟᱛᱠᱚ
 
 ## Contribution
@@ -481,9 +495,29 @@ clips-with-count-pluralized =
         [two] <bold>{ $count }</bold> ᱠᱞᱤᱯ ᱠᱤᱱ
        *[other] <bold>{ $count }</bold> ᱠᱞᱤᱯ ᱠᱚ
     }
+contribute-more =
+    { $count ->
+        [one] { $count } ᱞᱟᱹᱜᱤᱫ ᱥᱚᱡᱽ?
+        [two] { $count } ᱠᱤᱱ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱡᱽ?
+       *[other] { $count } ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱡᱽ?
+    }
 record-cta = ᱨᱮᱠᱚᱰᱤᱝ ᱮᱦᱚᱵ ᱢᱮ
+record-no-mic-found = ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ ᱾
+record-error-too-short = ᱨᱮᱠᱚᱰᱤᱝ ᱫᱚ ᱟᱹᱰᱤ ᱠᱷᱟᱴᱚ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾
+record-error-too-long = ᱨᱮᱠᱚᱰᱤᱝ ᱫᱚ ᱟᱹᱰᱤ ᱡᱤᱞᱤᱧ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾
+record-error-too-quiet = ᱨᱮᱠᱚᱰᱤᱝ ᱫᱚ ᱟᱹᱰᱤ ᱪᱩᱯ ᱥᱟᱹᱦᱤᱡ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾
+record-cancel = ᱫᱩᱦᱲᱟᱹ ᱨᱮᱠᱚᱰᱤᱝ ᱵᱟᱹᱰ ᱢᱮ
+record-instruction = { $actionType }<recordIcon></recordIcon> ᱚᱱᱟ ᱛᱚᱭᱚᱢ ᱟᱭᱟᱛ ᱡᱩᱨ ᱧᱚᱜ ᱯᱟᱲᱦᱟᱣ ᱢᱮ
+record-stop-instruction = ᱪᱟᱵᱟ ᱞᱮᱠᱷᱟᱱ { $actionType }<stopIcon></stopIcon>
+record-three-more-instruction = ᱟᱨ ᱯᱮᱭᱟ ᱥᱟᱨᱮᱡ ᱠᱟᱱᱟ!
+record-again-instruction = ᱥᱟᱨᱦᱟᱣ!<recordIcon></recordIcon>ᱟᱢᱟᱜ ᱞᱟᱦᱟ ᱠᱞᱤᱯ ᱨᱮᱠᱚᱰ ᱢᱮ
+record-again-instruction2 = ᱱᱚᱠᱟ ᱜᱮ ᱞᱟᱦᱟᱜ ᱢᱮ, ᱫᱩᱦᱲᱟᱹ ᱨᱮᱠᱚᱰ ᱞᱟᱹᱜᱤᱫ <recordIcon></recordIcon>
+record-last-instruction = <recordIcon></recordIcon>ᱢᱩᱪᱟᱹᱫᱟᱜ!
+share-clip = ᱟᱢᱟᱜ ᱠᱞᱤᱯ ᱦᱟᱹᱴᱤᱧ ᱢᱮ
 share-common-voice = ᱥᱚᱢᱟᱱ ᱟᱲᱟᱝ ᱦᱟᱹᱴᱤᱧ ᱢᱮ
 record-abort-continue = ᱨᱮᱠᱚᱰᱤᱝ ᱪᱟᱵᱟᱭ ᱢᱮ
+record-abort-delete = ᱠᱞᱤᱯ ᱵᱟᱹᱰ ᱟᱨ ᱢᱮᱴᱟᱣ ᱢᱮ
+listen-last-time-instruction = <playIcon><playIcon>ᱢᱩᱪᱟᱹᱫᱟᱜ!
 speak-empty-state-cta = ᱟᱹᱭᱟᱹᱛ ᱮᱱᱮᱢ ᱢᱮ
 record-button-label = ᱟᱢᱟᱜ ᱥᱟᱲᱮ ᱨᱮᱠᱚᱰ ᱢᱮ
 share-title-new = <bold>ᱜᱚᱲᱚ ᱮᱢᱟ ᱞᱮᱢ</bold> ᱟᱨᱦᱚᱸ ᱥᱟᱲᱮ ᱯᱟᱱᱛᱮ ᱢᱮ
@@ -494,6 +528,10 @@ target-segment-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 report = ᱨᱤᱯᱚᱴ
 report-title = ᱢᱤᱫ ᱴᱟᱝ ᱨᱤᱯᱚᱴ ᱡᱚᱢᱟᱭ ᱢᱮ
+report-different-language = ᱵᱷᱮᱜᱟᱨ ᱯᱟᱹᱨᱥᱤ
+report-other-comment =
+    .placeholder = ᱱᱤᱡᱮᱛᱮ ᱨᱚᱲ
+success = ᱨᱟᱹᱥ ᱞᱮᱠᱷᱟᱛᱮ
 continue = ᱞᱟᱦᱟ
 
 ## Goals
