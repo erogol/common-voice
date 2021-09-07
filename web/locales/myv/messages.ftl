@@ -573,7 +573,8 @@ clips-with-count-pluralized =
         [one] Клип
        *[other] Клипть
     }
-goal-help-recording = Лездыде Common Voice-нень пачкодеме <goalPercentage></goalPercentage> видьс минек эрьва чинь  { $goalValue } норовавксонть эйстэ!
+goal-help-recording = Лездыде Common Voice-нень пачкодеме <goalPercentage></goalPercentage> видьс минек эрьва чинь  вайгельсэ сёрмадомань норовавксонть эйстэ { $goalValue } !
+goal-help-validation = Лездыде Common Voice-нень пачкодеме <goalPercentage></goalPercentage> видьс минек эрьва чинь  вайгельсэ сёрмадовксонь ванномань норовавксонть эйстэ { $goalValue } !
 contribute-more =
     { $count ->
        *[other] Анокат седе тов { $count } теемс?
@@ -581,6 +582,7 @@ contribute-more =
 record-cta = Ушодомс сёрмадоманть
 record-platform-not-supported = Илямизь чумондо, платформат. туртов арасть эрявикс аравтомат.
 record-platform-not-supported-desktop = Столь лангсо содымашинатнес маштови таргамс меельце:
+record-platform-not-supported-ios-non-safari = iOS-сэ вайгелень сёрмадоманть нолдамга, нолдынк Safari тевс, инескеть...
 record-must-allow-microphone = Эряви максомс микрофононтень нолдавомань видечить.
 record-no-mic-found = А муеви микрофон.
 record-error-too-short = Лентас те сёрмадовксонть кувалмозо а саты.
@@ -749,9 +751,11 @@ read-more-about = Ловнок седе тов «Минденек» лопасо
 
 demo-get-started = Адя, ушодтано
 demo-welcome = Совак, инеськеть, «Common Voice-ес»
+demo-welcome-subheader = Ули мелеть содамс седеяк ламо ды максомс лезкс проектэнтень?
 
 ## Demo Datasets
 
+demo-language-select-card-header = Common Voice-эсь менель алдонь мода лангонь покш, ламо келень данной пурнавкс, конась ломань икеле.
 card-button-next = Икелев
 card-button-back = Мекев
 demo-language-select-label = Ваномс кельтнесэ
